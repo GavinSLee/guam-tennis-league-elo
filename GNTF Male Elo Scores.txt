@@ -1,0 +1,49 @@
+-3 sd: 1.897
+-2 sd: 2.503
+-1 sd: 3.109
+avg: 3.714 (elo = 1500, 1 sd = 200, .606)
++1 sd: 4.320
++2 sd: 4.926
++3 sd: 5.531
+
+3.0 = 1264
+3.5 = 1429
+4.0 = 1594
+4.5 = 1759
+5.0 = 1924
+
+P(A wins) = 1/1 + 10^((R_B - R_A)/400)
+
+Probability that 4.5 beats 5.0 is .279
+
+New rating = rating + 32(score - expected score)
+
+----------------------------------------------------
+Example Match: 
+
+Geo Wu (5.0 = 1924)
+Julien Guedon (4.0 = 1594)
+Average Combined Elo = 1759
+
+vs. 
+
+Brett Mayo (4.5 = 1759)
+Richard Hawes (4.5 = 1759)
+Average Combined Elo = 1759
+
+After Match:
+
+(Winners)
+Geo Wu = 1940 (5.05)
+Julien Guedon = 1610 (4.047)
+
+(Losers)
+Brett Mayo = 1743 (4.45)
+Richard Hawes = 1743 (4.45)
+
+----------------------------------------------------
+Season, Week, Date, Home Team, Visiting Team, Home Player 1, Home Player 1 Rating, Home Player 2, Home Player 2 Rating, Visiting Player 1, Visiting Player 1 Rating, Visiting Player 2  Rating , 
+
+
+
+

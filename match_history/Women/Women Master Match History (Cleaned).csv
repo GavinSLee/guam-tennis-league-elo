@@ -1,0 +1,606 @@
+Season,Week,Date,Home Team,Visitor Team,Home Player One,Home Player One Rating,Home Player Two,Home Player Two Rating,Visitor Player One,Visitor Player One Rating,Visitor Player Two,Visitor Player Two Rating,Home Score,Visitor Score
+2013 Island Divas Tennis League,1,10/27/2013,Uno,High Fives,Lisa Brooks,3.0,Millie Leon Guerrero,3.0,Carla Bordallo,2.0,Melodia Pugh,3.0,10,2
+2013 Island Divas Tennis League,1,10/27/2013,Uno,High Fives,Kathleen Bristol,3.5,Dina Jacob,4.0,Teresa John,3.0,Christine San Nicolas,3.0,10,3
+2013 Island Divas Tennis League,1,10/27/2013,Uno,High Fives,Diane Lee,4.0,Jocelyn Roden,4.0,Migu Goodman,4.0,Liza Provido,4.0,2,10
+2013 Island Divas Tennis League,1,10/27/2013,Simply Smashing,The Rackettes,Elizabeth Ignacio,2.5,Nenita Perez,2.5,Lory Tydingco,3.0,Yoko Bailey,3.0,11,9
+2013 Island Divas Tennis League,1,10/27/2013,Simply Smashing,The Rackettes,Lexie Mcdermott,3.5,Sonnie Jensen,2.5,Lory Tydingco,3.0,Debbie Keith,3.5,10,8
+2013 Island Divas Tennis League,1,10/27/2013,Simply Smashing,The Rackettes,Juana Jane Aguon,4.0,Margaret Terry,4.0,Naomi O'brien,4.5,Debbie Keith,3.5,6,10
+2013 Island Divas Tennis League,1,10/27/2013,Sakura,Mixed Up,Yasuko Schrader,3.0,Masami Ehrenreich,3.0,Arlene Diaz,3.0,Teresa Aguon,2.5,10,1
+2013 Island Divas Tennis League,1,10/27/2013,Sakura,Mixed Up,Margaret Leon Guerrero,4.0,Masami Ehrenreich,3.0,Mona Taijeron,4.0,Rosalie Cao,4.0,10,8
+2013 Island Divas Tennis League,1,10/27/2013,Sakura,Mixed Up,Kayoko Sugahara,4.0,Margaret Leon Guerrero,4.0,Andrea Imazeki Miyahara,3.5,Mona Taijeron,4.0,10,5
+2013 Island Divas Tennis League,2,11/03/2013,Simply Smashing,Loto 6,Lexie Mcdermott,3.5,Sonnie Jensen,2.5,Barbara Castro,3.0,Kelly Worrell,2.0,10,1
+2013 Island Divas Tennis League,2,11/03/2013,Simply Smashing,Loto 6,Kelly Sabel,3.5,Lexie Mcdermott,3.5,Barbara Castro,3.0,Charlene San Nicolas,3.5,10,0
+2013 Island Divas Tennis League,2,11/03/2013,Simply Smashing,Loto 6,Margaret Terry,4.0,Kelly Sabel,3.5,Jannie Devera,4.0,Yuko Stenson,4.0,9,11
+2013 Island Divas Tennis League,2,11/03/2013,Uno,Peace,Millie Leon Guerrero,3.0,Trisha Staudt Bigler,2.0,Ayumi Cajigan,3.0,Karen Maasim,2.5,6,10
+2013 Island Divas Tennis League,2,11/03/2013,Uno,Peace,Dina Jacob,4.0,Lisa Brooks,3.0,Ashley Roland,3.5,Noriko Hikita,3.0,7,10
+2013 Island Divas Tennis League,2,11/03/2013,Uno,Peace,Diane Lee,4.0,Jocelyn Roden,4.0,Naoko Hirota,4.0,Yuka Iwata,4.0,2,10
+2013 Island Divas Tennis League,2,11/03/2013,Sakura,High Fives,Yasuko Schrader,3.0,May Mueller,2.0,Teresa John,3.0,Stephanie Mayfield,2.0,10,6
+2013 Island Divas Tennis League,2,11/03/2013,Sakura,High Fives,Yasuko Schrader,3.0,Margaret Leon Guerrero,4.0,Melodia Pugh,3.0,Christine San Nicolas,3.0,9,11
+2013 Island Divas Tennis League,2,11/03/2013,Sakura,High Fives,Kayoko Sugahara,4.0,Masami Ehrenreich,3.0,Liza Provido,4.0,Migu Goodman,4.0,5,10
+2013 Island Divas Tennis League,2,11/03/2013,The Rackettes,Mixed Up,Yoko Bailey,3.0,Celine San Nicolas,3.0,Frances Mantanona,3.0,Teresa Aguon,2.5,10,4
+2013 Island Divas Tennis League,2,11/03/2013,The Rackettes,Mixed Up,Lory Tydingco,3.0,Debbie Keith,3.5,Annie Wu,3.0,Arlene Diaz,3.0,10,6
+2013 Island Divas Tennis League,2,11/03/2013,The Rackettes,Mixed Up,Alita Day,4.0,Naomi O'brien,4.5,Mona Taijeron,4.0,Rosalie Cao,4.0,7,10
+2013 Island Divas Tennis League,3,11/10/2013,The Rackettes,High Fives,Yoko Bailey,3.0,Debbie Keith,3.5,Carla Bordallo,2.0,Teresa John,3.0,10,3
+2013 Island Divas Tennis League,3,11/10/2013,The Rackettes,High Fives,Debbie Keith,3.5,Mae Hsieh,3.0,Christine San Nicolas,3.0,Melodia Pugh,3.0,10,8
+2013 Island Divas Tennis League,3,11/10/2013,The Rackettes,High Fives,Alita Day,4.0,Naomi O'brien,4.5,Liza Provido,4.0,Migu Goodman,4.0,5,10
+2013 Island Divas Tennis League,3,11/10/2013,Uno,Sakura,Kathleen Bristol,3.5,Millie Leon Guerrero,3.0,Masami Ehrenreich,3.0,Yasuko Schrader,3.0,8,10
+2013 Island Divas Tennis League,3,11/10/2013,Uno,Sakura,Diane Lee,4.0,Dina Jacob,4.0,Margaret Leon Guerrero,4.0,Kayoko Sugahara,4.0,5,10
+2013 Island Divas Tennis League,3,11/10/2013,Mixed Up,Loto 6,Andrea Imazeki Miyahara,3.5,Frances Mantanona,3.0,Barbara Castro,3.0,Yuko Stenson,4.0,10,8
+2013 Island Divas Tennis League,3,11/10/2013,Mixed Up,Loto 6,Rosalie Cao,4.0,Andrea Imazeki Miyahara,3.5,Jannie Devera,4.0,Yuko Stenson,4.0,10,4
+2013 Island Divas Tennis League,3,11/10/2013,Peace,Simply Smashing,Michelle Nelson,2.5,Karen Maasim,2.5,Sonnie Jensen,2.5,Kelly Sabel,3.5,2,10
+2013 Island Divas Tennis League,3,11/10/2013,Peace,Simply Smashing,Ashley Roland,3.5,Ayumi Cajigan,3.0,Sonnie Jensen,2.5,Margaret Terry,4.0,7,10
+2013 Island Divas Tennis League,3,11/10/2013,Peace,Simply Smashing,Noriko Hikita,3.0,Naoko Hirota,4.0,Juana Jane Aguon,4.0,Margaret Terry,4.0,4,10
+2013 Island Divas Tennis League,4,11/17/2013,Sakura,The Rackettes,Yasuko Schrader,3.0,May Mueller,2.0,Yoko Bailey,3.0,Celine San Nicolas,3.0,4,10
+2013 Island Divas Tennis League,4,11/17/2013,Sakura,The Rackettes,Masami Ehrenreich,3.0,Yasuko Schrader,3.0,Mae Hsieh,3.0,Debbie Keith,3.5,9,11
+2013 Island Divas Tennis League,4,11/17/2013,Sakura,The Rackettes,Kayoko Sugahara,4.0,Margaret Leon Guerrero,4.0,Alita Day,4.0,Naomi O'brien,4.5,10,5
+2013 Island Divas Tennis League,4,11/17/2013,Peace,Mixed Up,Noriko Hikita,3.0,Ayumi Cajigan,3.0,Arlene Diaz,3.0,Teresa Aguon,2.5,10,4
+2013 Island Divas Tennis League,4,11/17/2013,Peace,Mixed Up,Yuka Iwata,4.0,Ayumi Cajigan,3.0,Andrea Imazeki Miyahara,3.5,Arlene Diaz,3.0,10,2
+2013 Island Divas Tennis League,4,11/17/2013,Peace,Mixed Up,Yuka Iwata,4.0,Naoko Hirota,4.0,Mona Taijeron,4.0,Rosalie Cao,4.0,10,11
+2013 Island Divas Tennis League,4,11/17/2013,High Fives,Loto 6,Stephanie Mayfield,2.0,Melodia Pugh,3.0,Cindy Talai,3.0,Barbara Castro,3.0,10,6
+2013 Island Divas Tennis League,4,11/17/2013,High Fives,Loto 6,Liza Provido,4.0,Teresa John,3.0,Charlene San Nicolas,3.5,Jannie Devera,4.0,6,10
+2013 Island Divas Tennis League,4,11/17/2013,High Fives,Loto 6,Migu Goodman,4.0,Liza Provido,4.0,Jannie Devera,4.0,Anita Feria,4.0,10,7
+2013 Island Divas Tennis League,4,11/17/2013,Uno,Simply Smashing,Trisha Staudt Bigler,2.0,Dina Jacob,4.0,Kelly Sabel,3.5,Sonnie Jensen,2.5,5,10
+2013 Island Divas Tennis League,4,11/17/2013,Uno,Simply Smashing,Diane Lee,4.0,Millie Leon Guerrero,3.0,Kelly Sabel,3.5,Lexie Mcdermott,3.5,3,10
+2013 Island Divas Tennis League,4,11/17/2013,Uno,Simply Smashing,Diane Lee,4.0,Dina Jacob,4.0,Margaret Terry,4.0,Lexie Mcdermott,3.5,8,10
+2013 Island Divas Tennis League,5,11/24/2013,Uno,The Rackettes,Trisha Staudt Bigler,2.0,Kathleen Bristol,3.5,Yoko Bailey,3.0,Mae Hsieh,3.0,3,10
+2013 Island Divas Tennis League,5,11/24/2013,Uno,The Rackettes,Millie Leon Guerrero,3.0,Lisa Brooks,3.0,Alita Day,4.0,Lory Tydingco,3.0,7,10
+2013 Island Divas Tennis League,5,11/24/2013,Uno,The Rackettes,Diane Lee,4.0,Jocelyn Roden,4.0,Naomi O'brien,4.5,Debbie Keith,3.5,5,10
+2013 Island Divas Tennis League,5,11/24/2013,Sakura,Loto 6,Yasuko Schrader,3.0,May Mueller,2.0,Kelly Worrell,2.0,Cindy Talai,3.0,10,6
+2013 Island Divas Tennis League,5,11/24/2013,Sakura,Loto 6,Masami Ehrenreich,3.0,Yasuko Schrader,3.0,Barbara Castro,3.0,Charlene San Nicolas,3.5,10,11
+2013 Island Divas Tennis League,5,11/24/2013,Sakura,Loto 6,Kayoko Sugahara,4.0,Margaret Leon Guerrero,4.0,Yuko Stenson,4.0,Jannie Devera,4.0,10,3
+2013 Island Divas Tennis League,5,11/24/2013,High Fives,Peace,Carla Bordallo,2.0,Melodia Pugh,3.0,Noriko Hikita,3.0,Michelle Nelson,2.5,10,3
+2013 Island Divas Tennis League,5,11/24/2013,High Fives,Peace,Liza Provido,4.0,Teresa John,3.0,Yuka Iwata,4.0,Karen Maasim,2.5,3,10
+2013 Island Divas Tennis League,5,11/24/2013,High Fives,Peace,Liza Provido,4.0,Migu Goodman,4.0,Ayumi Cajigan,3.0,Yuka Iwata,4.0,11,9
+2013 Island Divas Tennis League,5,11/24/2013,Simply Smashing,Mixed Up,Sonnie Jensen,2.5,Lexie Mcdermott,3.5,Frances Mantanona,3.0,Teresa Aguon,2.5,10,1
+2013 Island Divas Tennis League,5,11/24/2013,Simply Smashing,Mixed Up,Lexie Mcdermott,3.5,Kelly Sabel,3.5,Frances Mantanona,3.0,Arlene Diaz,3.0,10,1
+2013 Island Divas Tennis League,5,11/24/2013,Simply Smashing,Mixed Up,Juana Jane Aguon,4.0,Margaret Terry,4.0,Andrea Imazeki Miyahara,3.5,Rosalie Cao,4.0,6,10
+2013 Island Divas Tennis League,6,12/01/2013,Simply Smashing,High Fives,Kelly Sabel,3.5,Sonnie Jensen,2.5,Carla Bordallo,2.0,Melodia Pugh,3.0,10,1
+2013 Island Divas Tennis League,6,12/01/2013,Simply Smashing,High Fives,Sonnie Jensen,2.5,Margaret Terry,4.0,Carla Bordallo,2.0,Liza Provido,4.0,10,8
+2013 Island Divas Tennis League,6,12/01/2013,Simply Smashing,High Fives,Lexie Mcdermott,3.5,Margaret Terry,4.0,Migu Goodman,4.0,Liza Provido,4.0,7,10
+2013 Island Divas Tennis League,6,12/01/2013,The Rackettes,Loto 6,Yoko Bailey,3.0,Celine San Nicolas,3.0,Cindy Talai,3.0,Kelly Worrell,2.0,10,2
+2013 Island Divas Tennis League,6,12/01/2013,The Rackettes,Loto 6,Debbie Keith,3.5,Lory Tydingco,3.0,Charlene San Nicolas,3.5,Barbara Castro,3.0,10,1
+2013 Island Divas Tennis League,6,12/01/2013,The Rackettes,Loto 6,Naomi O'brien,4.5,Debbie Keith,3.5,Yuko Stenson,4.0,Jannie Devera,4.0,10,11
+2013 Island Divas Tennis League,6,12/01/2013,Peace,Sakura,Ayumi Cajigan,3.0,Michelle Nelson,2.5,Masami Ehrenreich,3.0,May Mueller,2.0,10,7
+2013 Island Divas Tennis League,6,12/01/2013,Peace,Sakura,Noriko Hikita,3.0,Karen Maasim,2.5,Yasuko Schrader,3.0,Kayoko Sugahara,4.0,5,10
+2013 Island Divas Tennis League,6,12/01/2013,Peace,Sakura,Yuka Iwata,4.0,Ashley Roland,3.5,Kayoko Sugahara,4.0,Margaret Leon Guerrero,4.0,6,10
+2013 Island Divas Tennis League,6,12/01/2013,Mixed Up,Uno,Teresa Aguon,2.5,Arlene Diaz,3.0,Lisa Brooks,3.0,Millie Leon Guerrero,3.0,6,10
+2013 Island Divas Tennis League,6,12/01/2013,Mixed Up,Uno,Andrea Imazeki Miyahara,3.5,Annie Wu,3.0,Kathleen Bristol,3.5,Millie Leon Guerrero,3.0,10,4
+2013 Island Divas Tennis League,6,12/01/2013,Mixed Up,Uno,Andrea Imazeki Miyahara,3.5,Annie Wu,3.0,Diane Lee,4.0,Dina Jacob,4.0,5,10
+2013 Island Divas Tennis League,7,12/08/2013,High Fives,Mixed Up,Melodia Pugh,3.0,Carla Bordallo,2.0,Frances Mantanona,3.0,Annie Wu,3.0,6,10
+2013 Island Divas Tennis League,7,12/08/2013,High Fives,Mixed Up,Stephanie Mayfield,2.0,Melodia Pugh,3.0,Arlene Diaz,3.0,Teresa Aguon,2.5,10,8
+2013 Island Divas Tennis League,7,12/08/2013,High Fives,Mixed Up,Liza Provido,4.0,Migu Goodman,4.0,Frances Mantanona,3.0,Annie Wu,3.0,10,0
+2013 Island Divas Tennis League,7,12/08/2013,Sakura,Simply Smashing,Masami Ehrenreich,3.0,Yasuko Schrader,3.0,Nenita Perez,2.5,Sonnie Jensen,2.5,10,5
+2013 Island Divas Tennis League,7,12/08/2013,Sakura,Simply Smashing,Margaret Leon Guerrero,4.0,Yasuko Schrader,3.0,Kelly Sabel,3.5,Lexie Mcdermott,3.5,1,10
+2013 Island Divas Tennis League,7,12/08/2013,Sakura,Simply Smashing,Margaret Leon Guerrero,4.0,Masami Ehrenreich,3.0,Juana Jane Aguon,4.0,Margaret Terry,4.0,4,10
+2013 Island Divas Tennis League,7,12/08/2013,Loto 6,Uno,Cindy Talai,3.0,Kelly Worrell,2.0,Trisha Staudt Bigler,2.0,Kathleen Bristol,3.5,2,10
+2013 Island Divas Tennis League,7,12/08/2013,Loto 6,Uno,Barbara Castro,3.0,Charlene San Nicolas,3.5,Dina Jacob,4.0,Millie Leon Guerrero,3.0,1,10
+2013 Island Divas Tennis League,7,12/08/2013,Loto 6,Uno,Yuko Stenson,4.0,Jannie Devera,4.0,Diane Lee,4.0,Dina Jacob,4.0,6,10
+2013 Island Divas Tennis League,7,12/08/2013,Peace,The Rackettes,Michelle Nelson,2.5,Ashley Roland,3.5,Yoko Bailey,3.0,Lory Tydingco,3.0,6,10
+2013 Island Divas Tennis League,7,12/08/2013,Peace,The Rackettes,Naoko Hirota,4.0,Noriko Hikita,3.0,Lory Tydingco,3.0,Debbie Keith,3.5,5,10
+2013 Island Divas Tennis League,7,12/08/2013,Peace,The Rackettes,Yuka Iwata,4.0,Ayumi Cajigan,3.0,Debbie Keith,3.5,Naomi O'brien,4.5,6,10
+2014 Island Divas Tennis League,1,09/28/2014,Ninja Divas,Love All,Ayumi Cajigan,3.5,Yasuko Schrader,3.0,Frances Mantanona,3.5,Cindy Talai,3.0,10,4
+2014 Island Divas Tennis League,1,09/28/2014,Ninja Divas,Love All,Jannie Devera,3.5,Yoko Bailey,3.0,Lory Tydingco,3.5,Carla Bordallo,3.0,10,2
+2014 Island Divas Tennis League,1,09/28/2014,Ninja Divas,Love All,Juana Jane Aguon,4.0,Yuka Iwata,4.0,April Flores,4.0,Celine San Nicolas,3.5,10,2
+2014 Island Divas Tennis League,2,10/05/2014,Ninja Divas,Top Dogs,Ayumi Cajigan,3.5,Yasuko Schrader,3.0,Melodia Pugh,3.0,Margaret Terry,3.0,3,10
+2014 Island Divas Tennis League,2,10/05/2014,Ninja Divas,Top Dogs,Yuko Stenson,3.5,Yoko Bailey,3.0,Liza Provido,4.0,Melodia Pugh,3.0,4,10
+2014 Island Divas Tennis League,2,10/05/2014,Ninja Divas,Top Dogs,Migu Goodman,4.0,Yuka Iwata,4.0,Chungsuk Kim,3.5,Rosalie Cao,4.5,10,0
+2014 Island Divas Tennis League,2,10/05/2014,Love All,Rally Cats,Yan Na Yoo,3.0,Debbie Jeffries,3.5,Ashley Roland,3.5,Joan Gill,3.5,2,10
+2014 Island Divas Tennis League,2,10/05/2014,Love All,Rally Cats,Millie Leon Guerrero,3.5,Lisa Brooks,3.0,Ana Maria Gayle,3.0,Leah Duenas,4.0,8,10
+2014 Island Divas Tennis League,2,10/05/2014,Love All,Rally Cats,Alexis Keith,4.0,Frances Mantanona,3.5,Ronni Connelly,4.0,Sarah Morrison,3.5,5,10
+2014 Island Divas Tennis League,3,10/12/2014,Rally Cats,Ninja Divas,Ashley Roland,3.5,Kathy Alegria,3.0,Yasuko Schrader,3.0,Yuko Stenson,3.5,6,10
+2014 Island Divas Tennis League,3,10/12/2014,Rally Cats,Ninja Divas,Ana Maria Gayle,3.0,Joan Gill,3.5,Juana Jane Aguon,4.0,Yoko Bailey,3.0,6,10
+2014 Island Divas Tennis League,3,10/12/2014,Rally Cats,Ninja Divas,Ronni Connelly,4.0,Kimberly Ewart,4.0,Kayoko Sugahara,4.5,Ayumi Cajigan,3.5,5,10
+2014 Island Divas Tennis League,3,10/12/2014,Top Dogs,Love All,Melodia Pugh,3.0,Margaret Leon Guerrero,3.5,Frances Mantanona,3.5,Teresa Aguon,3.0,10,3
+2014 Island Divas Tennis League,3,10/12/2014,Top Dogs,Love All,Liza Provido,4.0,Arlene Diaz,3.0,Celine San Nicolas,3.5,Mae Hsieh,3.0,10,4
+2014 Island Divas Tennis League,3,10/12/2014,Top Dogs,Love All,Margaret Terry,3.0,Diane Lee,4.0,April Flores,4.0,Kathleen Bristol,3.5,10,3
+2014 Island Divas Tennis League,4,10/19/2014,Ninja Divas,Love All,Ayumi Cajigan,3.5,Barbara Castro,3.0,Kathleen Bristol,3.5,Teresa Aguon,3.0,10,6
+2014 Island Divas Tennis League,4,10/19/2014,Ninja Divas,Love All,Jannie Devera,3.5,Yoko Bailey,3.0,Celine San Nicolas,3.5,Frances Mantanona,3.5,10,3
+2014 Island Divas Tennis League,4,10/19/2014,Ninja Divas,Love All,Migu Goodman,4.0,Juana Jane Aguon,4.0,Lory Tydingco,3.5,Millie Leon Guerrero,3.5,10,3
+2014 Island Divas Tennis League,4,10/19/2014,Rally Cats,Top Dogs,Dina Jacob,4.0,Kathy Alegria,3.0,Aki Shintani,3.5,Margo Threat-stephenson,3.0,10,1
+2014 Island Divas Tennis League,4,10/19/2014,Rally Cats,Top Dogs,Kimberly Ewart,4.0,Leah Duenas,4.0,Margaret Terry,3.0,Liza Provido,4.0,9,10
+2014 Island Divas Tennis League,5,10/26/2014,Love All,Rally Cats,Lory Tydingco,3.5,Carla Bordallo,3.0,Ana Maria Gayle,3.0,Kimberly Ewart,4.0,2,10
+2014 Island Divas Tennis League,5,10/26/2014,Love All,Rally Cats,Millie Leon Guerrero,3.5,Erika Imamura,3.0,Ana Maria Gayle,3.0,Joan Gill,3.5,8,10
+2014 Island Divas Tennis League,5,10/26/2014,Love All,Rally Cats,April Flores,4.0,Kathleen Bristol,3.5,Dina Jacob,4.0,Leah Duenas,4.0,5,10
+2014 Island Divas Tennis League,5,10/26/2014,Top Dogs,Ninja Divas,Arlene Diaz,3.0,Margaret Terry,3.0,Yuko Stenson,3.5,Yasuko Schrader,3.0,6,10
+2014 Island Divas Tennis League,5,10/26/2014,Top Dogs,Ninja Divas,Liza Provido,4.0,Margaret Terry,3.0,Jannie Devera,3.5,Yuka Iwata,4.0,10,3
+2014 Island Divas Tennis League,6,11/02/2014,Rally Cats,Ninja Divas,Kathy Alegria,3.0,Leah Duenas,4.0,Migu Goodman,4.0,Barbara Castro,3.0,10,2
+2014 Island Divas Tennis League,6,11/02/2014,Rally Cats,Ninja Divas,Ana Maria Gayle,3.0,Joan Gill,3.5,Yuka Iwata,4.0,Diana Valadez Green,3.0,3,10
+2014 Island Divas Tennis League,6,11/02/2014,Rally Cats,Ninja Divas,Dina Jacob,4.0,Kimberly Ewart,4.0,Kayoko Sugahara,4.5,Ayumi Cajigan,3.5,10,5
+2014 Island Divas Tennis League,6,11/02/2014,Love All,Top Dogs,Teresa Aguon,3.0,Carla Bordallo,3.0,Liza Provido,4.0,Melodia Pugh,3.0,0,10
+2014 Island Divas Tennis League,6,11/02/2014,Love All,Top Dogs,April Flores,4.0,Lory Tydingco,3.5,Margaret Leon Guerrero,3.5,Margaret Terry,3.0,2,10
+2014 Island Divas Tennis League,7,11/09/2014,Top Dogs,Rally Cats,Melodia Pugh,3.0,Arlene Diaz,3.0,Kathy Alegria,3.0,Joan Gill,3.5,3,10
+2014 Island Divas Tennis League,7,11/09/2014,Top Dogs,Rally Cats,Margaret Terry,3.0,Margaret Leon Guerrero,3.5,Kathy Alegria,3.0,Dina Jacob,4.0,10,8
+2014 Island Divas Tennis League,7,11/09/2014,Top Dogs,Rally Cats,Margaret Terry,3.0,Liza Provido,4.0,Dina Jacob,4.0,Kimberly Ewart,4.0,6,10
+2014 Island Divas Tennis League,7,11/09/2014,Ninja Divas,Love All,Yoko Bailey,3.0,Yasuko Schrader,3.0,Frances Mantanona,3.5,Lisa Brooks,3.0,10,8
+2014 Island Divas Tennis League,7,11/09/2014,Ninja Divas,Love All,Ayumi Cajigan,3.5,Yuko Stenson,3.5,Mae Hsieh,3.0,Kathleen Bristol,3.5,10,7
+2014 Island Divas Tennis League,7,11/09/2014,Ninja Divas,Love All,Juana Jane Aguon,4.0,Jannie Devera,3.5,Annie Wu,3.0,Alexis Keith,4.0,3,10
+2014 Island Divas Tennis League,7,11/09/2014,Ninja Divas,Love All,Migu Goodman,4.0,Yuka Iwata,4.0,Alexis Keith,4.0,Lory Tydingco,3.5,10,0
+2014 Island Divas Tennis League,8,11/16/2014,Ninja Divas,Top Dogs,Barbara Castro,3.0,Yoko Bailey,3.0,Arlene Diaz,3.0,Aki Shintani,3.5,0,10
+2014 Island Divas Tennis League,8,11/16/2014,Ninja Divas,Top Dogs,Jannie Devera,3.5,Yasuko Schrader,3.0,Aki Shintani,3.5,Melodia Pugh,3.0,10,4
+2014 Island Divas Tennis League,8,11/16/2014,Ninja Divas,Top Dogs,Yuko Stenson,3.5,Yuka Iwata,4.0,Margaret Terry,3.0,Margaret Leon Guerrero,3.5,10,2
+2014 Island Divas Tennis League,8,11/16/2014,Ninja Divas,Top Dogs,Kayoko Sugahara,4.5,Migu Goodman,4.0,Liza Provido,4.0,Diane Lee,4.0,10,2
+2014 Island Divas Tennis League,8,11/16/2014,Love All,Rally Cats,Lisa Brooks,3.0,Teresa Aguon,3.0,Ana Maria Gayle,3.0,Ashley Roland,3.5,2,10
+2014 Island Divas Tennis League,8,11/16/2014,Love All,Rally Cats,Celine San Nicolas,3.5,Debbie Jeffries,3.5,Kathy Alegria,3.0,Joan Gill,3.5,10,6
+2014 Island Divas Tennis League,8,11/16/2014,Love All,Rally Cats,Annie Wu,3.0,Millie Leon Guerrero,3.5,Dina Jacob,4.0,Leah Duenas,4.0,7,10
+2014 Island Divas Tennis League,8,11/16/2014,Love All,Rally Cats,Alexis Keith,4.0,April Flores,4.0,Dina Jacob,4.0,Julie Perez - Bollinger,4.5,2,10
+2014 Island Divas Tennis League,9,11/23/2014,Rally Cats,Ninja Divas,Ashley Roland,3.5,Kathy Alegria,3.0,Yasuko Schrader,3.0,Diana Valadez Green,3.0,10,5
+2014 Island Divas Tennis League,9,11/23/2014,Rally Cats,Ninja Divas,Ashley Roland,3.5,Joan Gill,3.5,Yoko Bailey,3.0,Ayumi Cajigan,3.5,10,8
+2014 Island Divas Tennis League,9,11/23/2014,Rally Cats,Ninja Divas,Leah Duenas,4.0,Ronni Connelly,4.0,Jannie Devera,3.5,Juana Jane Aguon,4.0,10,6
+2014 Island Divas Tennis League,9,11/23/2014,Rally Cats,Ninja Divas,Dina Jacob,4.0,Kimberly Ewart,4.0,Migu Goodman,4.0,Yuko Stenson,3.5,10,5
+2014 Island Divas Tennis League,9,11/23/2014,Top Dogs,Love All,Aki Shintani,3.5,Arlene Diaz,3.0,Frances Mantanona,3.5,Carla Bordallo,3.0,10,5
+2014 Island Divas Tennis League,9,11/23/2014,Top Dogs,Love All,Margaret Leon Guerrero,3.5,Melodia Pugh,3.0,Mae Hsieh,3.0,Lory Tydingco,3.5,8,10
+2014 Island Divas Tennis League,9,11/23/2014,Top Dogs,Love All,Diane Lee,4.0,Margaret Leon Guerrero,3.5,April Flores,4.0,Debbie Jeffries,3.5,5,10
+2014 Island Divas Tennis League,9,11/23/2014,Top Dogs,Love All,Diane Lee,4.0,Liza Provido,4.0,Alexis Keith,4.0,Annie Wu,3.0,10,7
+2014 Island Divas Tennis League,10,11/30/2014,Ninja Divas,Love All,Barbara Castro,3.0,Ayumi Cajigan,3.5,Teresa Aguon,3.0,Yan Na Yoo,3.0,10,6
+2014 Island Divas Tennis League,10,11/30/2014,Ninja Divas,Love All,Yasuko Schrader,3.0,Yoko Bailey,3.0,Celine San Nicolas,3.5,Lisa Brooks,3.0,8,10
+2014 Island Divas Tennis League,10,11/30/2014,Ninja Divas,Love All,Kayoko Sugahara,4.5,Jannie Devera,3.5,April Flores,4.0,Kathleen Bristol,3.5,10,1
+2014 Island Divas Tennis League,10,11/30/2014,Ninja Divas,Love All,Yuka Iwata,4.0,Yuko Stenson,3.5,Alexis Keith,4.0,Debbie Jeffries,3.5,10,5
+2014 Island Divas Tennis League,10,11/30/2014,Rally Cats,Top Dogs,Ana Maria Gayle,3.0,Joan Gill,3.5,Aki Shintani,3.5,Melodia Pugh,3.0,5,10
+2014 Island Divas Tennis League,10,11/30/2014,Rally Cats,Top Dogs,Ronni Connelly,4.0,Ana Maria Gayle,3.0,Margaret Leon Guerrero,3.5,Arlene Diaz,3.0,10,5
+2014 Island Divas Tennis League,10,11/30/2014,Rally Cats,Top Dogs,Kimberly Ewart,4.0,Leah Duenas,4.0,Liza Provido,4.0,Margaret Terry,3.0,10,8
+2014 Island Divas Tennis League,10,11/30/2014,Rally Cats,Top Dogs,Julie Perez - Bollinger,4.5,Dina Jacob,4.0,Diane Lee,4.0,Margaret Terry,3.0,10,5
+2014 Island Divas Tennis League,11,12/07/2014,Love All,Rally Cats,Mae Hsieh,3.0,Teresa Aguon,3.0,Joan Gill,3.5,Ana Maria Gayle,3.0,1,10
+2014 Island Divas Tennis League,11,12/07/2014,Love All,Rally Cats,Kathleen Bristol,3.5,Frances Mantanona,3.5,Kathy Alegria,3.0,Kimberly Ewart,4.0,2,10
+2014 Island Divas Tennis League,11,12/07/2014,Love All,Rally Cats,Celine San Nicolas,3.5,Alexis Keith,4.0,Sarah Morrison,3.5,Ronni Connelly,4.0,10,5
+2014 Island Divas Tennis League,11,12/07/2014,Love All,Rally Cats,Millie Leon Guerrero,3.5,April Flores,4.0,Julie Perez - Bollinger,4.5,Kimberly Ewart,4.0,3,10
+2014 Island Divas Tennis League,11,12/07/2014,Top Dogs,Ninja Divas,Aki Shintani,3.5,Arlene Diaz,3.0,Jannie Devera,3.5,Yasuko Schrader,3.0,6,10
+2014 Island Divas Tennis League,11,12/07/2014,Top Dogs,Ninja Divas,Melodia Pugh,3.0,Margaret Leon Guerrero,3.5,Juana Jane Aguon,4.0,Yoko Bailey,3.0,10,8
+2014 Island Divas Tennis League,11,12/07/2014,Top Dogs,Ninja Divas,Aki Shintani,3.5,Liza Provido,4.0,Kayoko Sugahara,4.5,Yuko Stenson,3.5,8,10
+2014 Island Divas Tennis League,11,12/07/2014,Top Dogs,Ninja Divas,Liza Provido,4.0,Diane Lee,4.0,Migu Goodman,4.0,Yuka Iwata,4.0,1,10
+2014 Island Divas Tennis League,12,12/14/2014,Rally Cats,Ninja Divas,Kathy Alegria,3.0,Ana Maria Gayle,3.0,Ayumi Cajigan,3.5,Diana Valadez Green,3.0,5,10
+2014 Island Divas Tennis League,12,12/14/2014,Rally Cats,Ninja Divas,Ashley Roland,3.5,Sarah Morrison,3.5,Yuko Stenson,3.5,Jannie Devera,3.5,1,10
+2014 Island Divas Tennis League,12,12/14/2014,Rally Cats,Ninja Divas,Dina Jacob,4.0,Ronni Connelly,4.0,Migu Goodman,4.0,Juana Jane Aguon,4.0,10,5
+2014 Island Divas Tennis League,12,12/14/2014,Rally Cats,Ninja Divas,Julie Perez - Bollinger,4.5,Leah Duenas,4.0,Kayoko Sugahara,4.5,Yuka Iwata,4.0,3,10
+2015 Island Divas Tennis League,1,08/30/2015,Rally Cats,GPTC,Ana Maria Gayle,3.0,Joan Gill,3.5,Imelda Tsuji,2.5,Jingerly Lalic,3.0,6,10
+2015 Island Divas Tennis League,1,08/30/2015,Rally Cats,GPTC,Sarah Morrison,3.5,Kimberly Ewart,4.0,Benilda Ramirez,3.5,Ana Joy Mendez,3.5,10,3
+2015 Island Divas Tennis League,1,08/30/2015,Rally Cats,GPTC,Migu Goodman,4.0,Leah Duenas,4.0,Charlene San Nicolas,3.5,Leilani Labang,3.0,10,0
+2015 Island Divas Tennis League,1,08/30/2015,Love All,GoDIVAS,Kathleen Bristol,3.5,Lisa Brooks,3.0,Frances Mantanona,3.5,Yoko Bailey,3.0,8,10
+2015 Island Divas Tennis League,1,08/30/2015,Love All,GoDIVAS,Lexie Mcdermott,3.5,Millie Leon Guerrero,3.5,Yuko Stenson,3.5,Mona Taijeron,4.0,10,5
+2015 Island Divas Tennis League,1,08/30/2015,Love All,GoDIVAS,April Flores,4.0,Samantha Vargas,4.0,Margaret Terry,4.0,Liza Provido,4.0,10,9
+2015 Island Divas Tennis League,2,09/06/2015,GoDIVAS,Rally Cats,Teresa Aguon,3.0,Chungsuk Kim,3.0,Ashley Roland,3.5,Kathy Alegria,3.0,0,10
+2015 Island Divas Tennis League,2,09/06/2015,GoDIVAS,Rally Cats,Yoko Bailey,3.0,Ayumi Cajigan,3.5,Joan Gill,3.5,Leah Duenas,4.0,6,10
+2015 Island Divas Tennis League,2,09/06/2015,GoDIVAS,Rally Cats,Liza Provido,4.0,Yuko Stenson,3.5,Migu Goodman,4.0,Kimberly Ewart,4.0,3,10
+2015 Island Divas Tennis League,2,09/06/2015,GPTC,Top Dogs,Edna Jasa,2.5,Jingerly Lalic,3.0,Karen Mason,3.0,Melodia Pugh,3.0,10,9
+2015 Island Divas Tennis League,2,09/06/2015,GPTC,Top Dogs,Imelda Tsuji,2.5,Christine San Nicolas,3.0,Juana Jane Aguon,3.5,Margaret Leon Guerrero,3.5,5,10
+2015 Island Divas Tennis League,2,09/06/2015,GPTC,Top Dogs,Benilda Ramirez,3.5,Leilani Labang,3.0,Diane Lee,4.0,Rosalie Cao,4.5,1,10
+2015 Island Divas Tennis League,3,09/13/2015,Rally Cats,Top Dogs,Ana Maria Gayle,3.0,Kathy Alegria,3.0,Karen Mason,3.0,Melodia Pugh,3.0,10,6
+2015 Island Divas Tennis League,3,09/13/2015,Rally Cats,Top Dogs,Kathy Alegria,3.0,Dina Jacob,4.0,Juana Jane Aguon,3.5,Margaret Leon Guerrero,3.5,10,3
+2015 Island Divas Tennis League,3,09/13/2015,Rally Cats,Top Dogs,Leah Duenas,4.0,Dina Jacob,4.0,Rosalie Cao,4.5,Diane Lee,4.0,7,10
+2015 Island Divas Tennis League,3,09/13/2015,GPTC,Love All,Edna Jasa,2.5,Leilani Labang,3.0,Carla Bordallo,3.0,Mika Gibson,3.0,2,10
+2015 Island Divas Tennis League,3,09/13/2015,GPTC,Love All,Benilda Ramirez,3.5,Ana Joy Mendez,3.5,Lory Tydingco,3.5,Celine San Nicolas,3.5,10,7
+2015 Island Divas Tennis League,3,09/13/2015,GPTC,Love All,Charlene San Nicolas,3.5,Christine San Nicolas,3.0,April Flores,4.0,Lexie Mcdermott,3.5,2,10
+2015 Island Divas Tennis League,4,09/20/2015,GPTC,GoDIVAS,Edna Jasa,2.5,Imelda Tsuji,2.5,Chungsuk Kim,3.0,Mae Hsieh,3.0,3,10
+2015 Island Divas Tennis League,4,09/20/2015,GPTC,GoDIVAS,Ana Joy Mendez,3.5,Leilani Labang,3.0,Yuko Stenson,3.5,Margaret Terry,4.0,5,10
+2015 Island Divas Tennis League,4,09/20/2015,GPTC,GoDIVAS,Charlene San Nicolas,3.5,Benilda Ramirez,3.5,Liza Provido,4.0,Mona Taijeron,4.0,10,9
+2015 Island Divas Tennis League,4,09/20/2015,Love All,Top Dogs,Lory Tydingco,3.5,Carla Bordallo,3.0,Karen Mason,3.0,Juana Jane Aguon,3.5,3,10
+2015 Island Divas Tennis League,4,09/20/2015,Love All,Top Dogs,Millie Leon Guerrero,3.5,Celine San Nicolas,3.5,Alita Day,4.0,Margaret Leon Guerrero,3.5,2,10
+2015 Island Divas Tennis League,4,09/20/2015,Love All,Top Dogs,April Flores,4.0,Samantha Vargas,4.0,Naomi O'brien,4.5,Diane Lee,4.0,10,4
+2015 Island Divas Tennis League,5,09/27/2015,Rally Cats,Love All,Ana Maria Gayle,3.0,Sarah Morrison,3.5,Lisa Brooks,3.0,Mika Gibson,3.0,10,2
+2015 Island Divas Tennis League,5,09/27/2015,Rally Cats,Love All,Ashley Roland,3.5,Ronni Connelly,4.0,Millie Leon Guerrero,3.5,Lory Tydingco,3.5,10,9
+2015 Island Divas Tennis League,5,09/27/2015,Rally Cats,Love All,Julie Perez - Bollinger,4.5,Dina Jacob,4.0,April Flores,4.0,Samantha Vargas,4.0,5,10
+2015 Island Divas Tennis League,5,09/27/2015,GoDIVAS,Top Dogs,Yuko Stenson,3.5,Liza Provido,4.0,Alita Day,4.0,Margaret Leon Guerrero,3.5,10,7
+2015 Island Divas Tennis League,5,09/27/2015,GoDIVAS,Top Dogs,Mona Taijeron,4.0,Liza Provido,4.0,Rosalie Cao,4.5,Diane Lee,4.0,3,10
+2015 Island Divas Tennis League,6,10/04/2015,Love All,GPTC,Carla Bordallo,3.0,Mika Gibson,3.0,Edna Jasa,2.5,Jingerly Lalic,3.0,2,10
+2015 Island Divas Tennis League,6,10/04/2015,Love All,GPTC,Lexie Mcdermott,3.5,Lory Tydingco,3.5,Imelda Tsuji,2.5,Ana Joy Mendez,3.5,10,9
+2015 Island Divas Tennis League,6,10/04/2015,Love All,GPTC,April Flores,4.0,Millie Leon Guerrero,3.5,Charlene San Nicolas,3.5,Leilani Labang,3.0,10,2
+2015 Island Divas Tennis League,6,10/04/2015,Top Dogs,Rally Cats,Margaret Leon Guerrero,3.5,Sally Cacdac,3.0,Ashley Roland,3.5,Teresa John,3.0,10,7
+2015 Island Divas Tennis League,6,10/04/2015,Top Dogs,Rally Cats,Joy Minor,4.0,Juana Jane Aguon,3.5,Ronni Connelly,4.0,Sarah Morrison,3.5,10,4
+2015 Island Divas Tennis League,6,10/04/2015,Top Dogs,Rally Cats,Naomi O'brien,4.5,Diane Lee,4.0,Dina Jacob,4.0,Migu Goodman,4.0,10,3
+2015 Island Divas Tennis League,7,10/11/2015,Love All,Rally Cats,Millie Leon Guerrero,3.5,Lisa Brooks,3.0,Kathy Alegria,3.0,Teresa John,3.0,10,7
+2015 Island Divas Tennis League,7,10/11/2015,Love All,Rally Cats,Lexie Mcdermott,3.5,Lory Tydingco,3.5,Leah Duenas,4.0,Joan Gill,3.5,4,10
+2015 Island Divas Tennis League,7,10/11/2015,Love All,Rally Cats,April Flores,4.0,Samantha Vargas,4.0,Kimberly Ewart,4.0,Migu Goodman,4.0,8,10
+2015 Island Divas Tennis League,7,10/11/2015,GPTC,GoDIVAS,Christine San Nicolas,3.0,Leilani Labang,3.0,Ayumi Cajigan,3.5,Teresa Aguon,3.0,10,3
+2015 Island Divas Tennis League,7,10/11/2015,GPTC,GoDIVAS,Benilda Ramirez,3.5,Christine San Nicolas,3.0,Mimi Clinard,4.0,Yoko Bailey,3.0,9,10
+2015 Island Divas Tennis League,7,10/11/2015,GPTC,GoDIVAS,Charlene San Nicolas,3.5,Ana Joy Mendez,3.5,Liza Provido,4.0,Margaret Terry,4.0,1,10
+2015 Island Divas Tennis League,8,10/18/2015,Top Dogs,GoDIVAS,Karen Mason,3.0,Sally Cacdac,3.0,Chungsuk Kim,3.0,Frances Mantanona,3.5,10,8
+2015 Island Divas Tennis League,8,10/18/2015,Top Dogs,GoDIVAS,Joy Minor,4.0,Juana Jane Aguon,3.5,Ayumi Cajigan,3.5,Yuko Stenson,3.5,10,5
+2015 Island Divas Tennis League,8,10/18/2015,Top Dogs,GoDIVAS,Naomi O'brien,4.5,Diane Lee,4.0,Liza Provido,4.0,Margaret Terry,4.0,10,5
+2015 Island Divas Tennis League,8,10/18/2015,GPTC,Rally Cats,Imelda Tsuji,2.5,Christine San Nicolas,3.0,Kathy Alegria,3.0,Ana Maria Gayle,3.0,10,6
+2015 Island Divas Tennis League,8,10/18/2015,GPTC,Rally Cats,Jingerly Lalic,3.0,Leilani Labang,3.0,Dina Jacob,4.0,Teresa John,3.0,10,6
+2015 Island Divas Tennis League,8,10/18/2015,GPTC,Rally Cats,Ana Joy Mendez,3.5,Benilda Ramirez,3.5,Leah Duenas,4.0,Ronni Connelly,4.0,10,9
+2015 Island Divas Tennis League,9,10/25/2015,Top Dogs,Love All,Karen Mason,3.0,Sally Cacdac,3.0,Celine San Nicolas,3.5,Carla Bordallo,3.0,10,3
+2015 Island Divas Tennis League,9,10/25/2015,Top Dogs,Love All,Alita Day,4.0,Margaret Leon Guerrero,3.5,Lexie Mcdermott,3.5,Millie Leon Guerrero,3.5,8,10
+2015 Island Divas Tennis League,9,10/25/2015,Top Dogs,Love All,Naomi O'brien,4.5,Joy Minor,4.0,Samantha Vargas,4.0,April Flores,4.0,10,4
+2015 Island Divas Tennis League,9,10/25/2015,Rally Cats,GoDIVAS,Ana Maria Gayle,3.0,Sarah Morrison,3.5,Yan Na Yoo,3.0,Mae Hsieh,3.0,10,3
+2015 Island Divas Tennis League,9,10/25/2015,Rally Cats,GoDIVAS,Ashley Roland,3.5,Ronni Connelly,4.0,Mona Taijeron,4.0,Frances Mantanona,3.5,10,4
+2015 Island Divas Tennis League,9,10/25/2015,Rally Cats,GoDIVAS,Julie Perez - Bollinger,4.5,Migu Goodman,4.0,Liza Provido,4.0,Margaret Terry,4.0,10,5
+2015 Island Divas Tennis League,10,11/01/2015,GoDIVAS,Love All,Dongok Hong,3.0,Yoko Bailey,3.0,Celine San Nicolas,3.5,Mika Gibson,3.0,10,7
+2015 Island Divas Tennis League,10,11/01/2015,GoDIVAS,Love All,Ayumi Cajigan,3.5,Frances Mantanona,3.5,Lexie Mcdermott,3.5,Lory Tydingco,3.5,3,10
+2015 Island Divas Tennis League,10,11/01/2015,GoDIVAS,Love All,Margaret Terry,4.0,Mimi Clinard,4.0,April Flores,4.0,Millie Leon Guerrero,3.5,10,7
+2015 Island Divas Tennis League,10,11/01/2015,Top Dogs,GPTC,Juana Jane Aguon,3.5,Karen Mason,3.0,Ana Joy Mendez,3.5,Edna Jasa,2.5,10,6
+2015 Island Divas Tennis League,10,11/01/2015,Top Dogs,GPTC,Diane Lee,4.0,Margaret Leon Guerrero,3.5,Jingerly Lalic,3.0,Leilani Labang,3.0,10,3
+2015 Island Divas Tennis League,10,11/01/2015,Top Dogs,GPTC,Naomi O'brien,4.5,Joy Minor,4.0,Benilda Ramirez,3.5,Ana Joy Mendez,3.5,10,0
+2015 Island Divas Tennis League,Playoffs,11/07/2015,GoDIVAS,GPTC,Frances Mantanona,3.5,Mae Hsieh,3.0,Edna Jasa,2.5,Jingerly Lalic,3.0,10,8
+2015 Island Divas Tennis League,Playoffs,11/07/2015,GoDIVAS,GPTC,Ayumi Cajigan,3.5,Yuko Stenson,3.5,Imelda Tsuji,2.5,Ana Joy Mendez,3.5,10,5
+2015 Island Divas Tennis League,Playoffs,11/07/2015,GoDIVAS,GPTC,Margaret Terry,4.0,Liza Provido,4.0,Charlene San Nicolas,3.5,Benilda Ramirez,3.5,10,0
+2015 Island Divas Tennis League,Playoffs,11/08/2015,Top Dogs,GoDIVAS,Margaret Leon Guerrero,3.5,Sally Cacdac,3.0,Mae Hsieh,3.0,Yoko Bailey,3.0,8,10
+2015 Island Divas Tennis League,Playoffs,11/08/2015,Top Dogs,GoDIVAS,Joy Minor,4.0,Juana Jane Aguon,3.5,Margaret Terry,4.0,Yuko Stenson,3.5,4,10
+2015 Island Divas Tennis League,Playoffs,11/08/2015,Top Dogs,GoDIVAS,Naomi O'brien,4.5,Diane Lee,4.0,Liza Provido,4.0,Mimi Clinard,4.0,10,9
+2015 Island Divas Tennis League,Playoffs,11/08/2015,Love All,Rally Cats,Millie Leon Guerrero,3.5,Lisa Brooks,3.0,Ana Maria Gayle,3.0,Sarah Morrison,3.5,10,1
+2015 Island Divas Tennis League,Playoffs,11/08/2015,Love All,Rally Cats,Lexie Mcdermott,3.5,Lory Tydingco,3.5,Joan Gill,3.5,Leah Duenas,4.0,10,8
+2015 Island Divas Tennis League,Playoffs,11/08/2015,Love All,Rally Cats,April Flores,4.0,Samantha Vargas,4.0,Dina Jacob,4.0,Kimberly Ewart,4.0,5,10
+2015 Island Divas Tennis League,Championship,11/15/2015,GoDIVAS,Love All,Ayumi Cajigan,3.5,Mae Hsieh,3.0,Millie Leon Guerrero,3.5,Lisa Brooks,3.0,10,9
+2015 Island Divas Tennis League,Championship,11/15/2015,GoDIVAS,Love All,Margaret Terry,4.0,Yuko Stenson,3.5,Lexie Mcdermott,3.5,Lory Tydingco,3.5,10,5
+2015 Island Divas Tennis League,Championship,11/15/2015,GoDIVAS,Love All,Liza Provido,4.0,Mimi Clinard,4.0,April Flores,4.0,Samantha Vargas,4.0,4,10
+2015 Island Divas Tennis League,Consolation Matches,11/15/2015,Top Dogs,Rally Cats,Karen Mason,3.0,Sally Cacdac,3.0,Kathy Alegria,3.0,Teresa John,3.0,10,8
+2015 Island Divas Tennis League,Consolation Matches,11/15/2015,Top Dogs,Rally Cats,Diane Lee,4.0,Margaret Leon Guerrero,3.5,Joan Gill,3.5,Migu Goodman,4.0,10,6
+2015 Island Divas Tennis League,Consolation Matches,11/15/2015,Top Dogs,Rally Cats,Naomi O'brien,4.5,Joy Minor,4.0,Dina Jacob,4.0,Kimberly Ewart,4.0,10,7
+2016 Divas Tennis League,1,09/04/2016,Not Our Fault,Sets On The Beach,Imelda Tsuji,3.0,Erika Imamura,3.0,Christine San Nicolas,3.0,Jingerly Lalic,3.0,9,10
+2016 Divas Tennis League,1,09/04/2016,Not Our Fault,Sets On The Beach,Leah Duenas,4.0,Carla Bordallo,3.0,Migu Goodman,4.0,Millie Leon Guerrero,3.5,3,10
+2016 Divas Tennis League,1,09/04/2016,Not Our Fault,Sets On The Beach,Julie Perez - Bollinger,4.5,Dina Jacob,4.0,Kimberly Ewart,4.0,Liza Provido,4.0,10,3
+2016 Divas Tennis League,2,09/11/2016,Not Our Fault,Simply Vixens,Imelda Tsuji,3.0,Teresa Underwood,2.5,Suzzy Currey,3.0,Meghan Hall,3.0,7,10
+2016 Divas Tennis League,2,09/11/2016,Not Our Fault,Simply Vixens,Dina Jacob,4.0,Mae Hsieh,3.0,Celine San Nicolas,3.5,Ayumi Cajigan,3.5,10,5
+2016 Divas Tennis League,2,09/11/2016,Not Our Fault,Simply Vixens,Julie Perez - Bollinger,4.5,Leah Duenas,4.0,April Flores,4.0,Ana Joy Mendez,3.5,6,10
+2016 Divas Tennis League,2,09/11/2016,Sets On The Beach,Ace Of Hearts,Cindy Talai,3.0,Nenita Perez,2.5,Sarah Morrison,3.5,Edna Jasa,3.0,1,10
+2016 Divas Tennis League,2,09/11/2016,Sets On The Beach,Ace Of Hearts,Joan Gill,3.5,Liza Provido,4.0,Margaret Terry,4.0,Frances Mantanona,3.5,10,0
+2016 Divas Tennis League,2,09/11/2016,Sets On The Beach,Ace Of Hearts,Kimberly Ewart,4.0,Migu Goodman,4.0,Sachiko Murayama,4.0,Lory Tydingco,3.5,10,3
+2016 Divas Tennis League,3,09/18/2016,Ace Of Hearts,Not Our Fault,Margaret Terry,4.0,Sachiko Murayama,4.0,Mimi Clinard,4.0,Dina Jacob,4.0,10,9
+2016 Divas Tennis League,3,09/18/2016,Ace Of Hearts,Not Our Fault,Melodia Pugh,3.0,Hisae Farrell,2.5,Carla Bordallo,3.0,Yan Na Yoo,3.0,6,10
+2016 Divas Tennis League,3,09/18/2016,Ace Of Hearts,Not Our Fault,Kathy Alegria,3.0,Mona Taijeron,4.0,Ashley Roland,3.5,Mae Hsieh,3.0,3,10
+2016 Divas Tennis League,3,09/18/2016,Simply Vixens,Sets On The Beach,Celine San Nicolas,3.5,Ayumi Cajigan,3.5,Kimberly Ewart,4.0,Migu Goodman,4.0,0,10
+2016 Divas Tennis League,3,09/18/2016,Simply Vixens,Sets On The Beach,Lisa Brooks,3.0,Ana Maria Gayle,3.0,Jovelle Alcantara,3.0,Mary Olah,3.0,5,10
+2016 Divas Tennis League,3,09/18/2016,Simply Vixens,Sets On The Beach,April Flores,4.0,Ana Joy Mendez,3.5,Liza Provido,4.0,Joan Gill,3.5,10,3
+2016 Divas Tennis League,4,09/25/2016,Not Our Fault,Sets On The Beach,Ashley Roland,3.5,Mae Hsieh,3.0,Mary Olah,3.0,Millie Leon Guerrero,3.5,10,7
+2016 Divas Tennis League,4,09/25/2016,Not Our Fault,Sets On The Beach,Dina Jacob,4.0,Mimi Clinard,4.0,Kimberly Ewart,4.0,Migu Goodman,4.0,10,6
+2016 Divas Tennis League,4,09/25/2016,Not Our Fault,Sets On The Beach,Carla Bordallo,3.0,Erika Imamura,3.0,Jingerly Lalic,3.0,Nenita Perez,2.5,6,10
+2016 Divas Tennis League,4,09/25/2016,Ace Of Hearts,Simply Vixens,Sarah Morrison,3.5,Diana Valadez Green,3.0,Lisa Brooks,3.0,Ayumi Cajigan,3.5,10,4
+2016 Divas Tennis League,4,09/25/2016,Ace Of Hearts,Simply Vixens,Lory Tydingco,3.5,Margaret Terry,4.0,Ronni Connelly,4.0,Celine San Nicolas,3.5,10,3
+2016 Divas Tennis League,4,09/25/2016,Ace Of Hearts,Simply Vixens,Frances Mantanona,3.5,Edna Jasa,3.0,Arlie Bonto,3.0,Meghan Hall,3.0,10,4
+2016 Divas Tennis League,5,10/02/2016,Simply Vixens,Not Our Fault,Ana Maria Gayle,3.0,Joy Ambrale,2.0,Imelda Tsuji,3.0,Julienne Kang,3.0,10,4
+2016 Divas Tennis League,5,10/02/2016,Simply Vixens,Not Our Fault,Suzzy Currey,3.0,Ayumi Cajigan,3.5,Leah Duenas,4.0,Mae Hsieh,3.0,3,10
+2016 Divas Tennis League,5,10/02/2016,Simply Vixens,Not Our Fault,Ronni Connelly,4.0,Celine San Nicolas,3.5,Ashley Roland,3.5,Dina Jacob,4.0,4,10
+2016 Divas Tennis League,5,10/02/2016,Sets On The Beach,Ace Of Hearts,Cindy Talai,3.0,Nenita Perez,2.5,Edna Jasa,3.0,Hisae Farrell,2.5,10,8
+2016 Divas Tennis League,5,10/02/2016,Sets On The Beach,Ace Of Hearts,Christine San Nicolas,3.0,Joan Gill,3.5,Kathy Alegria,3.0,Mona Taijeron,4.0,10,7
+2016 Divas Tennis League,5,10/02/2016,Sets On The Beach,Ace Of Hearts,Liza Provido,4.0,Migu Goodman,4.0,Lory Tydingco,3.5,Sachiko Murayama,4.0,10,9
+2016 Divas Tennis League,6,10/09/2016,Sets On The Beach,Simply Vixens,Liza Provido,4.0,Kimberly Ewart,4.0,April Flores,4.0,Ronni Connelly,4.0,10,5
+2016 Divas Tennis League,6,10/09/2016,Sets On The Beach,Simply Vixens,Mary Olah,3.0,Christine San Nicolas,3.0,Lisa Brooks,3.0,Arlie Bonto,3.0,5,10
+2016 Divas Tennis League,6,10/09/2016,Sets On The Beach,Simply Vixens,Jingerly Lalic,3.0,Millie Leon Guerrero,3.5,Celine San Nicolas,3.5,Ayumi Cajigan,3.5,10,8
+2016 Divas Tennis League,6,10/09/2016,Ace Of Hearts,Not Our Fault,Margaret Terry,4.0,Sachiko Murayama,4.0,Dina Jacob,4.0,Leah Duenas,4.0,10,5
+2016 Divas Tennis League,6,10/09/2016,Ace Of Hearts,Not Our Fault,Kathleen Bristol,3.5,Diana Valadez Green,3.0,Teresa Underwood,2.5,Yan Na Yoo,3.0,10,0
+2016 Divas Tennis League,6,10/09/2016,Ace Of Hearts,Not Our Fault,Frances Mantanona,3.5,Sarah Morrison,3.5,Ashley Roland,3.5,Carla Bordallo,3.0,7,10
+2016 Divas Tennis League,7,10/16/2016,Ace Of Hearts,Simply Vixens,Lory Tydingco,3.5,Edna Jasa,3.0,Suzzy Currey,3.0,Ronni Connelly,4.0,3,10
+2016 Divas Tennis League,7,10/16/2016,Ace Of Hearts,Simply Vixens,Mona Taijeron,4.0,Sarah Morrison,3.5,April Flores,4.0,Celine San Nicolas,3.5,3,10
+2016 Divas Tennis League,7,10/16/2016,Ace Of Hearts,Simply Vixens,Frances Mantanona,3.5,Hisae Farrell,2.5,Arlie Bonto,3.0,Ana Maria Gayle,3.0,5,10
+2016 Divas Tennis League,7,10/16/2016,Not Our Fault,Sets On The Beach,Leah Duenas,4.0,Mimi Clinard,4.0,Kimberly Ewart,4.0,Migu Goodman,4.0,0,10
+2016 Divas Tennis League,7,10/16/2016,Not Our Fault,Sets On The Beach,Carla Bordallo,3.0,Erika Imamura,3.0,Jingerly Lalic,3.0,Mary Olah,3.0,0,10
+2016 Divas Tennis League,8,10/23/2016,Sets On The Beach,Ace Of Hearts,Kimberly Ewart,4.0,Liza Provido,4.0,Margaret Terry,4.0,Sachiko Murayama,4.0,10,5
+2016 Divas Tennis League,8,10/23/2016,Sets On The Beach,Ace Of Hearts,Jovelle Alcantara,3.0,Cindy Talai,3.0,Diana Valadez Green,3.0,Kathleen Bristol,3.5,7,10
+2016 Divas Tennis League,8,10/23/2016,Sets On The Beach,Ace Of Hearts,Migu Goodman,4.0,Christine San Nicolas,3.0,Lory Tydingco,3.5,Kathy Alegria,3.0,10,2
+2016 Divas Tennis League,8,10/23/2016,Simply Vixens,Not Our Fault,Ronni Connelly,4.0,Celine San Nicolas,3.5,Dina Jacob,4.0,Leah Duenas,4.0,4,10
+2016 Divas Tennis League,8,10/23/2016,Simply Vixens,Not Our Fault,Joy Ambrale,2.0,Meghan Hall,3.0,Julienne Kang,3.0,Teresa Underwood,2.5,10,2
+2016 Divas Tennis League,8,10/23/2016,Simply Vixens,Not Our Fault,April Flores,4.0,Arlie Bonto,3.0,Carla Bordallo,3.0,Mae Hsieh,3.0,10,2
+2016 Divas Tennis League,9,10/30/2016,Ace Of Hearts,Not Our Fault,Kathy Alegria,3.0,Hisae Farrell,2.5,Julienne Kang,3.0,Yan Na Yoo,3.0,10,1
+2016 Divas Tennis League,9,10/30/2016,Ace Of Hearts,Not Our Fault,Frances Mantanona,3.5,Sarah Morrison,3.5,Carla Bordallo,3.0,Leah Duenas,4.0,10,2
+2016 Divas Tennis League,9,10/30/2016,Ace Of Hearts,Not Our Fault,Lory Tydingco,3.5,Mona Taijeron,4.0,Dina Jacob,4.0,Mae Hsieh,3.0,6,10
+2016 Divas Tennis League,9,10/30/2016,Sets On The Beach,Simply Vixens,Millie Leon Guerrero,3.5,Nenita Perez,2.5,Arlie Bonto,3.0,Joy Ambrale,2.0,10,6
+2016 Divas Tennis League,9,10/30/2016,Sets On The Beach,Simply Vixens,Christine San Nicolas,3.0,Mary Olah,3.0,Ayumi Cajigan,3.5,Ana Joy Mendez,3.5,5,10
+2016 Divas Tennis League,9,10/30/2016,Sets On The Beach,Simply Vixens,Liza Provido,4.0,Millie Leon Guerrero,3.5,Celine San Nicolas,3.5,April Flores,4.0,0,10
+2016 Divas Tennis League,Playoffs,11/06/2016,Sets On The Beach,Not Our Fault,Christine San Nicolas,3.0,Jingerly Lalic,3.0,Carla Bordallo,3.0,Imelda Tsuji,3.0,10,4
+2016 Divas Tennis League,Playoffs,11/06/2016,Sets On The Beach,Not Our Fault,Liza Provido,4.0,Millie Leon Guerrero,3.5,Ashley Roland,3.5,Mae Hsieh,3.0,10,6
+2016 Divas Tennis League,Playoffs,11/06/2016,Sets On The Beach,Not Our Fault,Kimberly Ewart,4.0,Migu Goodman,4.0,Dina Jacob,4.0,Leah Duenas,4.0,10,1
+2016 Divas Tennis League,Playoffs,11/06/2016,Ace Of Hearts,Simply Vixens,Kathleen Bristol,3.5,Kathy Alegria,3.0,Arlie Bonto,3.0,Ayumi Cajigan,3.5,4,10
+2016 Divas Tennis League,Playoffs,11/06/2016,Ace Of Hearts,Simply Vixens,Lory Tydingco,3.5,Margaret Terry,4.0,Ana Joy Mendez,3.5,Ronni Connelly,4.0,10,5
+2016 Divas Tennis League,Playoffs,11/06/2016,Ace Of Hearts,Simply Vixens,Frances Mantanona,3.5,Mona Taijeron,4.0,Celine San Nicolas,3.5,April Flores,4.0,7,10
+2016 Divas Tennis League,Championship,11/13/2016,Sets On The Beach,Simply Vixens,Christine San Nicolas,3.0,Jingerly Lalic,3.0,Arlie Bonto,3.0,Ayumi Cajigan,3.5,6,10
+2016 Divas Tennis League,Championship,11/13/2016,Sets On The Beach,Simply Vixens,Millie Leon Guerrero,3.5,Liza Provido,4.0,April Flores,4.0,Celine San Nicolas,3.5,10,7
+2016 Divas Tennis League,Championship,11/13/2016,Sets On The Beach,Simply Vixens,Kimberly Ewart,4.0,Migu Goodman,4.0,Ronni Connelly,4.0,Ana Joy Mendez,3.5,10,3
+2016 Divas Tennis League,Consolation Matches,11/13/2016,Not Our Fault,Ace Of Hearts,Carla Bordallo,3.0,Yan Na Yoo,3.0,Kathy Alegria,3.0,Frances Mantanona,3.5,9,10
+2016 Divas Tennis League,Consolation Matches,11/13/2016,Not Our Fault,Ace Of Hearts,Imelda Tsuji,3.0,Mae Hsieh,3.0,Lory Tydingco,3.5,Mona Taijeron,4.0,7,10
+2016 Divas Tennis League,Consolation Matches,11/13/2016,Not Our Fault,Ace Of Hearts,Ashley Roland,3.5,Dina Jacob,4.0,Margaret Terry,4.0,Sachiko Murayama,4.0,2,10
+2017 Divas Fall Tennis League,1,08/20/2017,Love Always,Rally Cats,Mary Olah,3.0,Dorothy Shultice,3.0,Ana Maria Gayle,3.0,Diana Valadez Green,3.0,2,10
+2017 Divas Fall Tennis League,1,08/20/2017,Love Always,Rally Cats,Millie Leon Guerrero,3.5,Sally Cacdac,3.0,Kathy Alegria,3.0,Joan Gill,3.5,10,8
+2017 Divas Fall Tennis League,1,08/20/2017,Love Always,Rally Cats,Margaret Terry,4.0,Annie Wu,3.5,Kathleen Bristol,3.5,Leah Duenas,4.0,10,6
+2017 Divas Fall Tennis League,1,08/20/2017,Love Always,Rally Cats,Terea Tapu,4.5,Diane Lee,4.0,Liza Provido,4.0,Ronni Connelly,4.0,10,5
+2017 Divas Fall Tennis League,1,08/20/2017,Miss Hits,Baseline Bombshells,Elizabeth Ignacio,3.0,Leilani Labang,3.0,Jovelle Alcantara,3.0,Hisae Farrell,3.0,9,10
+2017 Divas Fall Tennis League,1,08/20/2017,Miss Hits,Baseline Bombshells,Melodia Pugh,3.0,Emelina Laborte,3.5,Arlie Bonto,3.0,Ayumi Cajigan,3.5,4,10
+2017 Divas Fall Tennis League,1,08/20/2017,Miss Hits,Baseline Bombshells,Christine San Nicolas,3.5,Mae Hsieh,3.5,Yuko Stenson,3.5,Kazumi Takada,3.5,3,10
+2017 Divas Fall Tennis League,1,08/20/2017,Miss Hits,Baseline Bombshells,Benilda Ramirez,3.5,Ana Joy Mendez,3.5,Yuka Iwata,4.0,Migu Goodman,4.0,2,10
+2017 Divas Fall Tennis League,2,08/27/2017,Rally Cats,Team PFC,Ana Maria Gayle,3.0,Bridget Keith,3.0,Colette Palomo,3.0,Kristina Catague,3.0,5,10
+2017 Divas Fall Tennis League,2,08/27/2017,Rally Cats,Team PFC,Diana Valadez Green,3.0,Teresa John,3.0,Imelda Tsuji,3.0,Jeanette Aguigui,3.0,6,10
+2017 Divas Fall Tennis League,2,08/27/2017,Rally Cats,Team PFC,Joan Gill,3.5,Kathleen Bristol,3.5,Edna Jasa,3.0,Julie Namm,3.5,10,8
+2017 Divas Fall Tennis League,2,08/27/2017,Rally Cats,Team PFC,Celine San Nicolas,3.5,Dina Jacob,4.0,Mona Taijeron,4.0,Naoko Kuge,3.5,10,0
+2017 Divas Fall Tennis League,2,08/27/2017,Baseline Bombshells,Love Always,Jovelle Alcantara,3.0,Yoko Bailey,3.0,Mary Olah,3.0,Dongok Hong,3.0,10,7
+2017 Divas Fall Tennis League,2,08/27/2017,Baseline Bombshells,Love Always,Arlie Bonto,3.0,Frances Mantanona,3.5,Lory Tydingco,3.5,Sally Cacdac,3.0,10,9
+2017 Divas Fall Tennis League,2,08/27/2017,Baseline Bombshells,Love Always,Yuko Stenson,3.5,Kazumi Takada,3.5,Diane Lee,4.0,Millie Leon Guerrero,3.5,6,10
+2017 Divas Fall Tennis League,2,08/27/2017,Baseline Bombshells,Love Always,Migu Goodman,4.0,Yuka Iwata,4.0,Terea Tapu,4.5,Margaret Terry,4.0,10,7
+2017 Divas Fall Tennis League,3,09/03/2017,Love Always,Team PFC,Lisa Brooks,3.0,Carla Bordallo,3.0,Doreen Garcia,3.0,Kristina Catague,3.0,10,5
+2017 Divas Fall Tennis League,3,09/03/2017,Love Always,Team PFC,Dongok Hong,3.0,Chungsuk Kim,3.0,Imelda Tsuji,3.0,Kendra Byrd,3.0,7,10
+2017 Divas Fall Tennis League,3,09/03/2017,Love Always,Team PFC,Lory Tydingco,3.5,Sally Cacdac,3.0,Edna Jasa,3.0,Sarah Fyda,3.0,10,7
+2017 Divas Fall Tennis League,3,09/03/2017,Love Always,Team PFC,Rosalie Cao,4.5,Margaret Terry,4.0,Julie Namm,3.5,Mona Taijeron,4.0,10,3
+2017 Divas Fall Tennis League,3,09/03/2017,Rally Cats,Miss Hits,Bridget Keith,3.0,Teresa John,3.0,Bernadette Santos,3.0,Alexandria Santos,3.0,10,7
+2017 Divas Fall Tennis League,3,09/03/2017,Rally Cats,Miss Hits,Ana Maria Gayle,3.0,Diana Valadez Green,3.0,Nenita Perez,3.0,Emelina Laborte,3.5,7,10
+2017 Divas Fall Tennis League,3,09/03/2017,Rally Cats,Miss Hits,Kathy Alegria,3.0,Liza Provido,4.0,Lillian Quirante,3.0,Christine San Nicolas,3.5,10,5
+2017 Divas Fall Tennis League,3,09/03/2017,Rally Cats,Miss Hits,Joan Gill,3.5,Ronni Connelly,4.0,Benilda Ramirez,3.5,Ana Joy Mendez,3.5,7,10
+2017 Divas Fall Tennis League,4,09/10/2017,Rally Cats,Baseline Bombshells,Cindy Talai,3.0,Teresa John,3.0,Hisae Farrell,3.0,Yoko Bailey,3.0,4,10
+2017 Divas Fall Tennis League,4,09/10/2017,Rally Cats,Baseline Bombshells,Kathy Alegria,3.0,Kathleen Bristol,3.5,Arlie Bonto,3.0,Ayumi Cajigan,3.5,10,2
+2017 Divas Fall Tennis League,4,09/10/2017,Rally Cats,Baseline Bombshells,Leah Duenas,4.0,Joan Gill,3.5,Aki Shintani,3.5,Naoko Hirota,3.5,7,10
+2017 Divas Fall Tennis League,4,09/10/2017,Rally Cats,Baseline Bombshells,Dina Jacob,4.0,Liza Provido,4.0,Migu Goodman,4.0,Kayoko Sugahara,4.5,6,10
+2017 Divas Fall Tennis League,4,09/10/2017,Miss Hits,Team PFC,Elizabeth Ignacio,3.0,Leilani Labang,3.0,Virlynn Gustilo,3.0,Kendra Byrd,3.0,10,7
+2017 Divas Fall Tennis League,4,09/10/2017,Miss Hits,Team PFC,Christine San Nicolas,3.5,Maya Gudmalin,3.0,Edna Jasa,3.0,Kristina Catague,3.0,10,8
+2017 Divas Fall Tennis League,4,09/10/2017,Miss Hits,Team PFC,Clarita Soriano,3.0,Lillian Quirante,3.0,Mona Taijeron,4.0,Sarah Fyda,3.0,10,5
+2017 Divas Fall Tennis League,4,09/10/2017,Miss Hits,Team PFC,Jingerly Lalic,3.0,Ana Joy Mendez,3.5,Julie Namm,3.5,Naoko Kuge,3.5,10,5
+2017 Divas Fall Tennis League,5,09/17/2017,Love Always,Miss Hits,Mary Olah,3.0,Chungsuk Kim,3.0,Bernadette Santos,3.0,Alexandria Santos,3.0,10,3
+2017 Divas Fall Tennis League,5,09/17/2017,Love Always,Miss Hits,Annie Wu,3.5,Lisa Brooks,3.0,Christine San Nicolas,3.5,Melodia Pugh,3.0,7,10
+2017 Divas Fall Tennis League,5,09/17/2017,Love Always,Miss Hits,Lory Tydingco,3.5,Millie Leon Guerrero,3.5,Maya Gudmalin,3.0,Clarita Soriano,3.0,10,2
+2017 Divas Fall Tennis League,5,09/17/2017,Love Always,Miss Hits,Rosalie Cao,4.5,Margaret Terry,4.0,Emelina Laborte,3.5,Ana Joy Mendez,3.5,10,3
+2017 Divas Fall Tennis League,5,09/17/2017,Baseline Bombshells,Team PFC,Yoko Bailey,3.0,Hisae Farrell,3.0,Imelda Tsuji,3.0,Kendra Byrd,3.0,4,10
+2017 Divas Fall Tennis League,5,09/17/2017,Baseline Bombshells,Team PFC,Jovelle Alcantara,3.0,Frances Mantanona,3.5,Kristina Catague,3.0,Sarah Fyda,3.0,8,10
+2017 Divas Fall Tennis League,5,09/17/2017,Baseline Bombshells,Team PFC,Aki Shintani,3.5,Kazumi Takada,3.5,Mona Taijeron,4.0,Naoko Kuge,3.5,10,3
+2017 Divas Fall Tennis League,5,09/17/2017,Baseline Bombshells,Team PFC,Kayoko Sugahara,4.5,Yuka Iwata,4.0,Edna Jasa,3.0,Julie Namm,3.5,10,1
+2017 Divas Fall Tennis League,6,09/24/2017,Team PFC,Love Always,Laura Kim,3.0,Sarah Fyda,3.0,Dongok Hong,3.0,Carla Bordallo,3.0,8,10
+2017 Divas Fall Tennis League,6,09/24/2017,Team PFC,Love Always,Julie Namm,3.5,Kendra Byrd,3.0,Chungsuk Kim,3.0,Mary Olah,3.0,10,0
+2017 Divas Fall Tennis League,6,09/24/2017,Team PFC,Love Always,Mona Taijeron,4.0,Imelda Tsuji,3.0,Annie Wu,3.5,Sally Cacdac,3.0,5,10
+2017 Divas Fall Tennis League,6,09/24/2017,Team PFC,Love Always,Naoko Kuge,3.5,Edna Jasa,3.0,Rosalie Cao,4.5,Millie Leon Guerrero,3.5,3,10
+2017 Divas Fall Tennis League,6,09/24/2017,Miss Hits,Rally Cats,Elizabeth Ignacio,3.0,Clarita Soriano,3.0,Ana Maria Gayle,3.0,Cindy Talai,3.0,10,5
+2017 Divas Fall Tennis League,6,09/24/2017,Miss Hits,Rally Cats,Nenita Perez,3.0,Emelina Laborte,3.5,Kathy Alegria,3.0,Diana Valadez Green,3.0,2,10
+2017 Divas Fall Tennis League,6,09/24/2017,Miss Hits,Rally Cats,Mae Hsieh,3.5,Leilani Labang,3.0,Kathleen Bristol,3.5,Leah Duenas,4.0,7,10
+2017 Divas Fall Tennis League,6,09/24/2017,Miss Hits,Rally Cats,Benilda Ramirez,3.5,Ana Joy Mendez,3.5,Ashley Roland,3.5,Dina Jacob,4.0,2,10
+2017 Divas Fall Tennis League,7,10/01/2017,Miss Hits,Love Always,Bernadette Santos,3.0,Leilani Labang,3.0,Carla Bordallo,3.0,Chungsuk Kim,3.0,7,10
+2017 Divas Fall Tennis League,7,10/01/2017,Miss Hits,Love Always,Ana Joy Mendez,3.5,Lillian Quirante,3.0,Lory Tydingco,3.5,Lisa Brooks,3.0,10,4
+2017 Divas Fall Tennis League,7,10/01/2017,Miss Hits,Love Always,Melodia Pugh,3.0,Christine San Nicolas,3.5,Rosalie Cao,4.5,Diane Lee,4.0,1,10
+2017 Divas Fall Tennis League,7,10/01/2017,Rally Cats,Baseline Bombshells,Bridget Keith,3.0,Teresa John,3.0,Hisae Farrell,3.0,Jovelle Alcantara,3.0,1,10
+2017 Divas Fall Tennis League,7,10/01/2017,Rally Cats,Baseline Bombshells,Ana Maria Gayle,3.0,Kathy Alegria,3.0,Arlie Bonto,3.0,Frances Mantanona,3.5,4,10
+2017 Divas Fall Tennis League,7,10/01/2017,Rally Cats,Baseline Bombshells,Ashley Roland,3.5,Kathleen Bristol,3.5,Kazumi Takada,3.5,Aki Shintani,3.5,8,10
+2017 Divas Fall Tennis League,7,10/01/2017,Rally Cats,Baseline Bombshells,Dina Jacob,4.0,Leah Duenas,4.0,Yuka Iwata,4.0,Migu Goodman,4.0,5,10
+2017 Divas Fall Tennis League,8,10/08/2017,Team PFC,Baseline Bombshells,Laura Kim,3.0,Imelda Tsuji,3.0,Hisae Farrell,3.0,Yoko Bailey,3.0,0,10
+2017 Divas Fall Tennis League,8,10/08/2017,Team PFC,Baseline Bombshells,Sarah Fyda,3.0,Kristina Catague,3.0,Jovelle Alcantara,3.0,Ayumi Cajigan,3.5,0,3
+2017 Divas Fall Tennis League,8,10/08/2017,Team PFC,Baseline Bombshells,Edna Jasa,3.0,Naoko Kuge,3.5,Frances Mantanona,3.5,Naoko Hirota,3.5,0,3
+2017 Divas Fall Tennis League,8,10/08/2017,Rally Cats,Love Always,Ana Maria Gayle,3.0,Kathy Alegria,3.0,Carla Bordallo,3.0,Dongok Hong,3.0,10,2
+2017 Divas Fall Tennis League,8,10/08/2017,Rally Cats,Love Always,Diana Valadez Green,3.0,Kathleen Bristol,3.5,Millie Leon Guerrero,3.5,Sally Cacdac,3.0,5,10
+2017 Divas Fall Tennis League,8,10/08/2017,Rally Cats,Love Always,Dina Jacob,4.0,Joan Gill,3.5,Margaret Terry,4.0,Lory Tydingco,3.5,10,6
+2017 Divas Fall Tennis League,8,10/08/2017,Rally Cats,Love Always,Leah Duenas,4.0,Liza Provido,4.0,Terea Tapu,4.5,Diane Lee,4.0,10,7
+2017 Divas Fall Tennis League,9,10/15/2017,Love Always,Baseline Bombshells,Lory Tydingco,3.5,Chungsuk Kim,3.0,Naoko Hirota,3.5,Hisae Farrell,3.0,5,10
+2017 Divas Fall Tennis League,9,10/15/2017,Love Always,Baseline Bombshells,Rosalie Cao,4.5,Diane Lee,4.0,Kayoko Sugahara,4.5,Yuka Iwata,4.0,0,2
+2017 Spring Divas Tennis League,1,02/12/2017,Miss Hits,Love All,Emelina Laborte,3.0,Melodia Pugh,3.0,Julienne Kang,3.0,Joy Ambrale,2.0,8,0
+2017 Spring Divas Tennis League,1,02/12/2017,Miss Hits,Love All,Elizabeth Ignacio,3.0,Imelda Tsuji,3.0,Mary Olah,3.0,Carla Bordallo,3.0,8,3
+2017 Spring Divas Tennis League,1,02/12/2017,Miss Hits,Love All,Alita Day,4.0,Jinky Aca,3.0,Lisa Brooks,3.0,Suzzy Currey,3.0,8,0
+2017 Spring Divas Tennis League,1,02/12/2017,Miss Hits,Love All,Ana Joy Mendez,3.5,Benilda Ramirez,3.5,Lory Tydingco,3.5,Kathleen Bristol,3.5,8,3
+2017 Spring Divas Tennis League,2,02/19/2017,Love All,Baseline Bombshells,Danielle Stein,3.0,Teresa Underwood,2.5,Arlie Bonto,3.0,Jovelle Alcantara,3.0,4,8
+2017 Spring Divas Tennis League,2,02/19/2017,Love All,Baseline Bombshells,Joy Ambrale,2.0,Carla Bordallo,3.0,Ayumi Cajigan,3.5,Yoko Bailey,3.0,4,8
+2017 Spring Divas Tennis League,2,02/19/2017,Love All,Baseline Bombshells,Kathleen Bristol,3.5,Suzzy Currey,3.0,Migu Goodman,4.0,Frances Mantanona,3.5,4,8
+2017 Spring Divas Tennis League,2,02/19/2017,Love All,Baseline Bombshells,Lory Tydingco,3.5,Millie Leon Guerrero,3.5,Atsuko Yamauchi,4.5,Aki Shintani,3.5,5,8
+2017 Spring Divas Tennis League,2,02/19/2017,Rally Cats,WTS,Cindy Talai,3.0,Teresa John,3.0,Sally Cacdac,3.0,Tressa Diaz,3.0,8,3
+2017 Spring Divas Tennis League,2,02/19/2017,Rally Cats,WTS,Kathy Alegria,3.0,Sarah Morrison,3.5,Nina Engelhardt,3.5,Sally Cacdac,3.0,3,8
+2017 Spring Divas Tennis League,2,02/19/2017,Rally Cats,WTS,Joan Gill,3.5,Margaret Terry,4.0,Theecel Minor,4.0,Margaret Leon Guerrero,3.5,5,8
+2017 Spring Divas Tennis League,2,02/19/2017,Rally Cats,WTS,Dina Jacob,4.0,Julie Perez - Bollinger,4.5,Rosalie Cao,4.5,Diane Lee,4.0,8,3
+2017 Spring Divas Tennis League,3,02/26/2017,Baseline Bombshells,WTS,Hisae Farrell,2.5,Yan Na Yoo,3.0,Jeong Mi Kim,2.5,Tressa Diaz,3.0,8,3
+2017 Spring Divas Tennis League,3,02/26/2017,Baseline Bombshells,WTS,Arlie Bonto,3.0,Ayumi Cajigan,3.5,Margaret Leon Guerrero,3.5,Sally Cacdac,3.0,8,7
+2017 Spring Divas Tennis League,3,02/26/2017,Baseline Bombshells,WTS,Yuko Stenson,3.5,Migu Goodman,4.0,Diane Lee,4.0,Nina Engelhardt,3.5,8,1
+2017 Spring Divas Tennis League,3,02/26/2017,Baseline Bombshells,WTS,Kayoko Sugahara,4.5,Yuka Iwata,4.0,Terea Tapu,4.5,Theecel Minor,4.0,6,8
+2017 Spring Divas Tennis League,3,02/26/2017,Rally Cats,Miss Hits,Ana Maria Gayle,3.0,Bridget Keith,3.0,Jinky Aca,3.0,Nenita Perez,3.0,2,8
+2017 Spring Divas Tennis League,3,02/26/2017,Rally Cats,Miss Hits,Kathy Alegria,3.0,Joan Gill,3.5,Elizabeth Ignacio,3.0,Leilani Labang,3.0,8,7
+2017 Spring Divas Tennis League,3,02/26/2017,Rally Cats,Miss Hits,Sarah Morrison,3.5,Celine San Nicolas,3.5,Emelina Laborte,3.0,Benilda Ramirez,3.5,8,5
+2017 Spring Divas Tennis League,3,02/26/2017,Rally Cats,Miss Hits,Julie Perez - Bollinger,4.5,Liza Provido,4.0,Alita Day,4.0,Mae Hsieh,3.5,8,4
+2017 Spring Divas Tennis League,4,03/05/2017,Rally Cats,Love All,Ana Maria Gayle,3.0,Kathy Alegria,3.0,Joy Ambrale,2.0,Julienne Kang,3.0,8,3
+2017 Spring Divas Tennis League,4,03/05/2017,Rally Cats,Love All,Celine San Nicolas,3.5,Cindy Talai,3.0,Danielle Stein,3.0,Lisa Brooks,3.0,8,6
+2017 Spring Divas Tennis League,4,03/05/2017,Rally Cats,Love All,Ashley Roland,3.5,Margaret Terry,4.0,Lory Tydingco,3.5,Teresa Underwood,2.5,8,1
+2017 Spring Divas Tennis League,4,03/05/2017,Rally Cats,Love All,Dina Jacob,4.0,Julie Perez - Bollinger,4.5,Kathleen Bristol,3.5,Millie Leon Guerrero,3.5,8,2
+2017 Spring Divas Tennis League,4,03/05/2017,Miss Hits,WTS,Melodia Pugh,3.0,Edna Jasa,3.0,Christine Kim,2.5,Nina Engelhardt,3.5,8,0
+2017 Spring Divas Tennis League,4,03/05/2017,Miss Hits,WTS,Mae Hsieh,3.5,Jingerly Lalic,3.0,Sally Cacdac,3.0,Tressa Diaz,3.0,6,8
+2017 Spring Divas Tennis League,4,03/05/2017,Miss Hits,WTS,Alita Day,4.0,Leilani Labang,3.0,Joy Minor,4.0,Margaret Leon Guerrero,3.5,0,8
+2017 Spring Divas Tennis League,4,03/05/2017,Miss Hits,WTS,Benilda Ramirez,3.5,Ana Joy Mendez,3.5,Terea Tapu,4.5,Theecel Minor,4.0,1,8
+2017 Spring Divas Tennis League,5,03/12/2017,Baseline Bombshells,Miss Hits,Yoko Bailey,3.0,Yan Na Yoo,3.0,Nenita Perez,3.0,Jingerly Lalic,3.0,7,8
+2017 Spring Divas Tennis League,5,03/12/2017,Baseline Bombshells,Miss Hits,Ayumi Cajigan,3.5,Hisae Farrell,2.5,Ana Joy Mendez,3.5,Emelina Laborte,3.0,5,8
+2017 Spring Divas Tennis League,5,03/12/2017,Baseline Bombshells,Miss Hits,Kazumi Takada,3.5,Aki Shintani,3.5,Jinky Aca,3.0,Christine San Nicolas,3.0,4,8
+2017 Spring Divas Tennis League,5,03/12/2017,Baseline Bombshells,Miss Hits,Sachiko Murayama,4.0,Kayoko Sugahara,4.5,Alita Day,4.0,Benilda Ramirez,3.5,8,0
+2017 Spring Divas Tennis League,5,03/12/2017,Love All,WTS,Mary Olah,3.0,Teresa Underwood,2.5,Christine Kim,2.5,Jeong Mi Kim,2.5,8,6
+2017 Spring Divas Tennis League,5,03/12/2017,Love All,WTS,Lory Tydingco,3.5,Danielle Stein,3.0,Sally Cacdac,3.0,Tressa Diaz,3.0,6,8
+2017 Spring Divas Tennis League,5,03/12/2017,Love All,WTS,Lory Tydingco,3.5,Kathleen Bristol,3.5,Theecel Minor,4.0,Margaret Leon Guerrero,3.5,2,8
+2017 Spring Divas Tennis League,5,03/12/2017,Love All,WTS,Suzzy Currey,3.0,Millie Leon Guerrero,3.5,Terea Tapu,4.5,Joy Minor,4.0,4,8
+2017 Spring Divas Tennis League,6,03/19/2017,WTS,Baseline Bombshells,Jeong Mi Kim,2.5,Tressa Diaz,3.0,Arlie Bonto,3.0,Yan Na Yoo,3.0,8,5
+2017 Spring Divas Tennis League,6,03/19/2017,WTS,Baseline Bombshells,Margaret Leon Guerrero,3.5,Sally Cacdac,3.0,Frances Mantanona,3.5,Yoko Bailey,3.0,8,4
+2017 Spring Divas Tennis League,6,03/19/2017,WTS,Baseline Bombshells,Joy Minor,4.0,Nina Engelhardt,3.5,Yuko Stenson,3.5,Migu Goodman,4.0,6,8
+2017 Spring Divas Tennis League,6,03/19/2017,WTS,Baseline Bombshells,Arlene Diaz,4.5,Theecel Minor,4.0,Kayoko Sugahara,4.5,Sachiko Murayama,4.0,8,7
+2017 Spring Divas Tennis League,6,03/19/2017,Miss Hits,Rally Cats,Melodia Pugh,3.0,Elizabeth Ignacio,3.0,Bridget Keith,3.0,Diana Valadez Green,3.0,8,3
+2017 Spring Divas Tennis League,6,03/19/2017,Miss Hits,Rally Cats,Leilani Labang,3.0,Jingerly Lalic,3.0,Ana Maria Gayle,3.0,Celine San Nicolas,3.5,8,6
+2017 Spring Divas Tennis League,6,03/19/2017,Miss Hits,Rally Cats,Benilda Ramirez,3.5,Emelina Laborte,3.0,Sarah Morrison,3.5,Ronni Connelly,4.0,4,8
+2017 Spring Divas Tennis League,7,03/26/2017,Miss Hits,Baseline Bombshells,Emelina Laborte,3.0,Nenita Perez,3.0,Jovelle Alcantara,3.0,Yan Na Yoo,3.0,8,4
+2017 Spring Divas Tennis League,7,03/26/2017,Miss Hits,Baseline Bombshells,Christine San Nicolas,3.0,Elizabeth Ignacio,3.0,Jovelle Alcantara,3.0,Aki Shintani,3.5,7,8
+2017 Spring Divas Tennis League,7,03/26/2017,Miss Hits,Baseline Bombshells,Ana Joy Mendez,3.5,Mae Hsieh,3.5,Yuka Iwata,4.0,Kazumi Takada,3.5,3,8
+2017 Spring Divas Tennis League,7,03/26/2017,Miss Hits,Baseline Bombshells,Jinky Aca,3.0,Leilani Labang,3.0,Kayoko Sugahara,4.5,Migu Goodman,4.0,1,8
+2017 Spring Divas Tennis League,7,03/26/2017,Rally Cats,Love All,Bridget Keith,3.0,Kathy Alegria,3.0,Danielle Stein,3.0,Mary Olah,3.0,8,6
+2017 Spring Divas Tennis League,7,03/26/2017,Rally Cats,Love All,Joan Gill,3.5,Diana Valadez Green,3.0,Teresa Underwood,2.5,Joy Ambrale,2.0,8,2
+2017 Spring Divas Tennis League,7,03/26/2017,Rally Cats,Love All,Sarah Morrison,3.5,Margaret Terry,4.0,Carla Bordallo,3.0,Lory Tydingco,3.5,8,1
+2017 Spring Divas Tennis League,7,03/26/2017,Rally Cats,Love All,Liza Provido,4.0,Ronni Connelly,4.0,Millie Leon Guerrero,3.5,Suzzy Currey,3.0,7,8
+2017 Spring Divas Tennis League,8,04/02/2017,WTS,Love All,Christine Kim,2.5,Jeong Mi Kim,2.5,Joy Ambrale,2.0,Teresa Underwood,2.5,8,7
+2017 Spring Divas Tennis League,8,04/02/2017,WTS,Love All,Annie Wu,3.5,Sally Cacdac,3.0,Lisa Brooks,3.0,Carla Bordallo,3.0,8,3
+2017 Spring Divas Tennis League,8,04/02/2017,WTS,Love All,Theecel Minor,4.0,Margaret Leon Guerrero,3.5,Millie Leon Guerrero,3.5,Kathleen Bristol,3.5,8,3
+2017 Spring Divas Tennis League,8,04/02/2017,WTS,Love All,Rosalie Cao,4.5,Diane Lee,4.0,Lory Tydingco,3.5,Suzzy Currey,3.0,8,3
+2017 Spring Divas Tennis League,8,04/02/2017,Rally Cats,Baseline Bombshells,Diana Valadez Green,3.0,Teresa John,3.0,Hisae Farrell,2.5,Yan Na Yoo,3.0,7,8
+2017 Spring Divas Tennis League,8,04/02/2017,Rally Cats,Baseline Bombshells,Ana Maria Gayle,3.0,Joan Gill,3.5,Ayumi Cajigan,3.5,Jovelle Alcantara,3.0,3,8
+2017 Spring Divas Tennis League,8,04/02/2017,Rally Cats,Baseline Bombshells,Ashley Roland,3.5,Liza Provido,4.0,Kazumi Takada,3.5,Yuko Stenson,3.5,5,8
+2017 Spring Divas Tennis League,8,04/02/2017,Rally Cats,Baseline Bombshells,Dina Jacob,4.0,Julie Perez - Bollinger,4.5,Kayoko Sugahara,4.5,Yuka Iwata,4.0,6,8
+2017 Spring Divas Tennis League,9,04/09/2017,Baseline Bombshells,Love All,Hisae Farrell,2.5,Yoko Bailey,3.0,Danielle Stein,3.0,Teresa Underwood,2.5,8,3
+2017 Spring Divas Tennis League,9,04/09/2017,Baseline Bombshells,Love All,Arlie Bonto,3.0,Aki Shintani,3.5,Joy Ambrale,2.0,Lisa Brooks,3.0,8,2
+2017 Spring Divas Tennis League,9,04/09/2017,Baseline Bombshells,Love All,Frances Mantanona,3.5,Yuko Stenson,3.5,Millie Leon Guerrero,3.5,Kathleen Bristol,3.5,5,8
+2017 Spring Divas Tennis League,9,04/09/2017,Baseline Bombshells,Love All,Yuka Iwata,4.0,Migu Goodman,4.0,Lory Tydingco,3.5,Millie Leon Guerrero,3.5,8,2
+2017 Spring Divas Tennis League,9,04/09/2017,WTS,Miss Hits,Tressa Diaz,3.0,Jeong Mi Kim,2.5,Edna Jasa,3.0,Jinky Aca,3.0,5,8
+2017 Spring Divas Tennis League,9,04/09/2017,WTS,Miss Hits,Nina Engelhardt,3.5,Sally Cacdac,3.0,Imelda Tsuji,3.0,Benilda Ramirez,3.5,8,2
+2017 Spring Divas Tennis League,9,04/09/2017,WTS,Miss Hits,Diane Lee,4.0,Margaret Leon Guerrero,3.5,Leilani Labang,3.0,Christine San Nicolas,3.0,8,4
+2017 Spring Divas Tennis League,9,04/09/2017,WTS,Miss Hits,Arlene Diaz,4.5,Theecel Minor,4.0,Alita Day,4.0,Ana Joy Mendez,3.5,8,1
+2017 Spring Divas Tennis League,10,04/23/2017,Love All,Miss Hits,Danielle Stein,3.0,Joy Ambrale,2.0,Leilani Labang,3.0,Elizabeth Ignacio,3.0,8,6
+2017 Spring Divas Tennis League,10,04/23/2017,Love All,Miss Hits,Carla Bordallo,3.0,Teresa Underwood,2.5,Nenita Perez,3.0,Edna Jasa,3.0,2,4
+2017 Spring Divas Tennis League,10,04/23/2017,Love All,Miss Hits,Kathleen Bristol,3.5,Suzzy Currey,3.0,Imelda Tsuji,3.0,Christine San Nicolas,3.0,5,8
+2017 Spring Divas Tennis League,10,04/23/2017,Love All,Miss Hits,Lory Tydingco,3.5,Millie Leon Guerrero,3.5,Alita Day,4.0,Jingerly Lalic,3.0,4,8
+2017 Spring Divas Tennis League,10,04/23/2017,WTS,Rally Cats,Tressa Diaz,3.0,Christine Kim,2.5,Bridget Keith,3.0,Cindy Talai,3.0,8,7
+2017 Spring Divas Tennis League,10,04/23/2017,WTS,Rally Cats,Nina Engelhardt,3.5,Jeong Mi Kim,2.5,Celine San Nicolas,3.5,Teresa John,3.0,6,8
+2017 Spring Divas Tennis League,10,04/23/2017,WTS,Rally Cats,Margaret Leon Guerrero,3.5,Theecel Minor,4.0,Ashley Roland,3.5,Dina Jacob,4.0,5,8
+2017 Spring Divas Tennis League,10,04/23/2017,WTS,Rally Cats,Terea Tapu,4.5,Theecel Minor,4.0,Liza Provido,4.0,Sarah Morrison,3.5,8,2
+2017 Spring Divas Tennis League,Playoffs (Round 1),04/30/2017,Miss Hits,Love All,Christine San Nicolas,3.0,Leilani Labang,3.0,Joy Ambrale,2.0,Lisa Brooks,3.0,4,8
+2017 Spring Divas Tennis League,Playoffs (Round 1),04/30/2017,Miss Hits,Love All,Jinky Aca,3.0,Elizabeth Ignacio,3.0,Kathleen Bristol,3.5,Suzzy Currey,3.0,3,8
+2017 Spring Divas Tennis League,Playoffs (Round 1),04/30/2017,Miss Hits,Love All,Alita Day,4.0,Benilda Ramirez,3.5,Lory Tydingco,3.5,Millie Leon Guerrero,3.5,8,3
+2017 Spring Divas Tennis League,Playoffs (Round 1),04/30/2017,Miss Hits,Love All,Ana Joy Mendez,3.5,Jingerly Lalic,3.0,Danielle Stein,3.0,Teresa Underwood,2.5,8,2
+2017 Spring Divas Tennis League,Playoffs (Round 2),05/07/2017,Baseline Bombshells,Miss Hits,Hisae Farrell,2.5,Yoko Bailey,3.0,Christine San Nicolas,3.0,Jinky Aca,3.0,3,8
+2017 Spring Divas Tennis League,Playoffs (Round 2),05/07/2017,Baseline Bombshells,Miss Hits,Aki Shintani,3.5,Arlie Bonto,3.0,Ana Joy Mendez,3.5,Emelina Laborte,3.0,8,6
+2017 Spring Divas Tennis League,Playoffs (Round 2),05/07/2017,Baseline Bombshells,Miss Hits,Migu Goodman,4.0,Kazumi Takada,3.5,Alita Day,4.0,Benilda Ramirez,3.5,8,2
+2017 Spring Divas Tennis League,Playoffs (Round 2),05/07/2017,Baseline Bombshells,Miss Hits,Kayoko Sugahara,4.5,Yuka Iwata,4.0,Leilani Labang,3.0,Jingerly Lalic,3.0,8,0
+2017 Spring Divas Tennis League,Playoffs (Round 2),05/07/2017,WTS,Rally Cats,Tressa Diaz,3.0,Christine Kim,2.5,Cindy Talai,3.0,Teresa John,3.0,4,8
+2017 Spring Divas Tennis League,Playoffs (Round 2),05/07/2017,WTS,Rally Cats,Nina Engelhardt,3.5,Jeong Mi Kim,2.5,Ashley Roland,3.5,Kathy Alegria,3.0,8,7
+2017 Spring Divas Tennis League,Playoffs (Round 2),05/07/2017,WTS,Rally Cats,Diane Lee,4.0,Annie Wu,3.5,Liza Provido,4.0,Sarah Morrison,3.5,1,8
+2017 Spring Divas Tennis League,Playoffs (Round 2),05/07/2017,WTS,Rally Cats,Arlene Diaz,4.5,Theecel Minor,4.0,Julie Perez - Bollinger,4.5,Margaret Terry,4.0,7,8
+2017 Spring Divas Tennis League,Championship,05/14/2017,Baseline Bombshells,Rally Cats,Hisae Farrell,2.5,Jovelle Alcantara,3.0,Bridget Keith,3.0,Cindy Talai,3.0,8,1
+2017 Spring Divas Tennis League,Championship,05/14/2017,Baseline Bombshells,Rally Cats,Arlie Bonto,3.0,Aki Shintani,3.5,Diana Valadez Green,3.0,Kathy Alegria,3.0,8,0
+2017 Spring Divas Tennis League,Championship,05/14/2017,Baseline Bombshells,Rally Cats,Yuka Iwata,4.0,Yuko Stenson,3.5,Dina Jacob,4.0,Teresa John,3.0,8,0
+2017 Spring Divas Tennis League,Championship,05/14/2017,Baseline Bombshells,Rally Cats,Kayoko Sugahara,4.5,Migu Goodman,4.0,Julie Perez - Bollinger,4.5,Margaret Terry,4.0,8,4
+2018 Fall DIVA League,1,08/25/2018,PFC Hit N Run,Baseline Bombshells,Imelda Tsuji,3.0,Jeanette Aguigui,3.0,Marie Paulin,3.0,Hisae Farrell,3.0,2,8
+2018 Fall DIVA League,1,08/25/2018,PFC Hit N Run,Baseline Bombshells,Christine San Nicolas,3.5,Emelina Laborte,3.5,Arlie Bonto,3.0,Susan Edmunds,3.5,2,8
+2018 Fall DIVA League,1,08/25/2018,PFC Hit N Run,Baseline Bombshells,Alita Day,4.0,Naoko Kuge,3.5,Aki Shintani,3.5,Jannie Devera,3.5,3,8
+2018 Fall DIVA League,1,08/25/2018,PFC Hit N Run,Baseline Bombshells,Arlene Diaz,4.5,Mona Taijeron,4.0,Kayoko Sugahara,4.5,Yuka Iwata,4.0,1,8
+2018 Fall DIVA League,2,09/01/2018,PFC Hit N Run,Love Haagen-Dazs Always,Edna Jasa,3.0,Tressa Diaz,3.0,Chungsuk Kim,3.0,Mahalia Faith Gudmalin,3.0,8,5
+2018 Fall DIVA League,2,09/01/2018,PFC Hit N Run,Love Haagen-Dazs Always,Ana Joy Mendez,3.5,Clarita Soriano,3.0,Sally Cacdac,3.5,Jingerly Lalic,3.0,8,2
+2018 Fall DIVA League,2,09/01/2018,PFC Hit N Run,Love Haagen-Dazs Always,Margaret Leon Guerrero,3.5,Naoko Kuge,3.5,Carolyn Ward,4.0,Lory Tydingco,3.5,0,8
+2018 Fall DIVA League,2,09/01/2018,PFC Hit N Run,Love Haagen-Dazs Always,Arlene Diaz,4.5,Benilda Ramirez,4.0,Rosalie Cao,4.5,Diane Lee,4.0,4,8
+2018 Fall DIVA League,2,09/01/2018,Baseline Bombshells,Rally Cats,Jovelle Alcantara,3.0,Yoko Bailey,3.0,Ana Maria Gayle,3.0,Tara Perez-steffy Packbier,3.0,4,8
+2018 Fall DIVA League,2,09/01/2018,Baseline Bombshells,Rally Cats,Susan Edmunds,3.5,Ayumi Cajigan,3.5,Ashley Roland,3.5,Kathleen Bristol,3.5,8,1
+2018 Fall DIVA League,2,09/01/2018,Baseline Bombshells,Rally Cats,Aki Shintani,3.5,Noriko Moody,3.5,Mae Hsieh,3.5,Mimi Clinard,4.0,8,7
+2018 Fall DIVA League,2,09/01/2018,Baseline Bombshells,Rally Cats,Yuka Iwata,4.0,Yuko Stenson,4.0,Leah Duenas,4.0,Liza Provido,4.0,8,4
+2018 Fall DIVA League,3,09/08/2018,Rally Cats,PFC Hit N Run,Ana Maria Gayle,3.0,Christine Oliver,3.0,Clarita Soriano,3.0,Jeanette Aguigui,3.0,8,5
+2018 Fall DIVA League,3,09/08/2018,Rally Cats,PFC Hit N Run,Ashley Roland,3.5,Joan Gill,3.5,Christine San Nicolas,3.5,Margaret Leon Guerrero,3.5,8,7
+2018 Fall DIVA League,3,09/08/2018,Rally Cats,PFC Hit N Run,Leah Duenas,4.0,Mae Hsieh,3.5,Lillian Quirante,3.5,Mona Taijeron,4.0,7,8
+2018 Fall DIVA League,3,09/08/2018,Rally Cats,PFC Hit N Run,Dina Jacob,4.0,Liza Provido,4.0,Alita Day,4.0,Benilda Ramirez,4.0,8,2
+2018 Fall DIVA League,3,09/08/2018,Love Haagen-Dazs Always,Baseline Bombshells,Chungsuk Kim,3.0,Carla Bordallo,3.0,Hisae Farrell,3.0,Marie Paulin,3.0,6,8
+2018 Fall DIVA League,3,09/08/2018,Love Haagen-Dazs Always,Baseline Bombshells,Jingerly Lalic,3.0,Mahalia Faith Gudmalin,3.0,Frances Mantanona,3.5,Noriko Moody,3.5,6,8
+2018 Fall DIVA League,3,09/08/2018,Love Haagen-Dazs Always,Baseline Bombshells,Bernadette Santos,3.0,Sally Cacdac,3.5,Yuko Stenson,4.0,Aki Shintani,3.5,5,8
+2018 Fall DIVA League,3,09/08/2018,Love Haagen-Dazs Always,Baseline Bombshells,Rosalie Cao,4.5,Diane Lee,4.0,Kayoko Sugahara,4.5,Yuka Iwata,4.0,6,8
+2018 Fall DIVA League,4,09/15/2018,PFC Hit N Run,Baseline Bombshells,Imelda Tsuji,3.0,Tressa Diaz,3.0,Jovelle Alcantara,3.0,Yoko Bailey,3.0,8,6
+2018 Fall DIVA League,4,09/15/2018,PFC Hit N Run,Baseline Bombshells,Edna Jasa,3.0,Naoko Kuge,3.5,Frances Mantanona,3.5,Susan Edmunds,3.5,4,8
+2018 Fall DIVA League,4,09/15/2018,PFC Hit N Run,Baseline Bombshells,Ana Joy Mendez,3.5,Mona Taijeron,4.0,Yuko Stenson,4.0,Kazumi Takada,3.5,6,8
+2018 Fall DIVA League,4,09/15/2018,PFC Hit N Run,Baseline Bombshells,Benilda Ramirez,4.0,Lillian Quirante,3.5,Jannie Devera,3.5,Noriko Moody,3.5,3,8
+2018 Fall DIVA League,4,09/15/2018,Rally Cats,Love Haagen-Dazs Always,Ana Maria Gayle,3.0,Diana Valadez Green,3.0,Carla Bordallo,3.0,Mahalia Faith Gudmalin,3.0,8,5
+2018 Fall DIVA League,4,09/15/2018,Rally Cats,Love Haagen-Dazs Always,Ashley Roland,3.5,Kathleen Bristol,3.5,Jingerly Lalic,3.0,Bernadette Santos,3.0,8,3
+2018 Fall DIVA League,4,09/15/2018,Rally Cats,Love Haagen-Dazs Always,Liza Provido,4.0,Mimi Clinard,4.0,Sally Cacdac,3.5,Lory Tydingco,3.5,8,3
+2018 Fall DIVA League,4,09/15/2018,Rally Cats,Love Haagen-Dazs Always,Dina Jacob,4.0,Leah Duenas,4.0,Diane Lee,4.0,Rosalie Cao,4.5,3,8
+2018 Fall DIVA League,5,09/22/2018,Love Haagen-Dazs Always,PFC Hit N Run,Bernadette Santos,3.0,Carla Bordallo,3.0,Edna Jasa,3.0,Tressa Diaz,3.0,4,8
+2018 Fall DIVA League,5,09/22/2018,Love Haagen-Dazs Always,PFC Hit N Run,Nina Engelhardt,3.5,Sally Cacdac,3.5,Emelina Laborte,3.5,Lillian Quirante,3.5,8,0
+2018 Fall DIVA League,5,09/22/2018,Love Haagen-Dazs Always,PFC Hit N Run,Diane Lee,4.0,Lory Tydingco,3.5,Alita Day,4.0,Mona Taijeron,4.0,8,1
+2018 Fall DIVA League,5,09/22/2018,Love Haagen-Dazs Always,PFC Hit N Run,Theecel Minor,4.0,Terea Tapu,4.5,Ana Joy Mendez,3.5,Arlene Diaz,4.5,8,0
+2018 Fall DIVA League,5,09/22/2018,Baseline Bombshells,Rally Cats,Hisae Farrell,3.0,Jovelle Alcantara,3.0,Diana Valadez Green,3.0,Christine Oliver,3.0,8,2
+2018 Fall DIVA League,5,09/22/2018,Baseline Bombshells,Rally Cats,Susan Edmunds,3.5,Arlie Bonto,3.0,Joan Gill,3.5,Mae Hsieh,3.5,8,1
+2018 Fall DIVA League,5,09/22/2018,Baseline Bombshells,Rally Cats,Yuka Iwata,4.0,Aki Shintani,3.5,Mimi Clinard,4.0,Leah Duenas,4.0,8,4
+2018 Fall DIVA League,5,09/22/2018,Baseline Bombshells,Rally Cats,Kayoko Sugahara,4.5,Jannie Devera,3.5,Dina Jacob,4.0,Liza Provido,4.0,4,8
+2018 Fall DIVA League,6,09/29/2018,Baseline Bombshells,Love Haagen-Dazs Always,Hisae Farrell,3.0,Marie Paulin,3.0,Bernadette Santos,3.0,Mahalia Faith Gudmalin,3.0,8,2
+2018 Fall DIVA League,6,09/29/2018,Baseline Bombshells,Love Haagen-Dazs Always,Arlie Bonto,3.0,Ayumi Cajigan,3.5,Nina Engelhardt,3.5,Sally Cacdac,3.5,5,8
+2018 Fall DIVA League,6,09/29/2018,Baseline Bombshells,Love Haagen-Dazs Always,Aki Shintani,3.5,Noriko Moody,3.5,Diane Lee,4.0,Carolyn Ward,4.0,4,8
+2018 Fall DIVA League,6,09/29/2018,Baseline Bombshells,Love Haagen-Dazs Always,Yuko Stenson,4.0,Kayoko Sugahara,4.5,Terea Tapu,4.5,Theecel Minor,4.0,5,8
+2018 Fall DIVA League,6,09/29/2018,Rally Cats,PFC Hit N Run,Tara Perez-steffy Packbier,3.0,Ana Maria Gayle,3.0,Edna Jasa,3.0,Jeanette Aguigui,3.0,8,4
+2018 Fall DIVA League,6,09/29/2018,Rally Cats,PFC Hit N Run,Joan Gill,3.5,Kathleen Bristol,3.5,Emelina Laborte,3.5,Ana Joy Mendez,3.5,3,8
+2018 Fall DIVA League,6,09/29/2018,Rally Cats,PFC Hit N Run,Dina Jacob,4.0,Liza Provido,4.0,Julie Namm,3.5,Benilda Ramirez,4.0,8,4
+2018 Fall DIVA League,6,09/29/2018,Rally Cats,PFC Hit N Run,Kathy Alegria,3.5,Mimi Clinard,4.0,Arlene Diaz,4.5,Lillian Quirante,3.5,3,8
+2018 Fall DIVA League,7,10/06/2018,Rally Cats,Love Haagen-Dazs Always,Ana Maria Gayle,3.0,Tara Perez-steffy Packbier,3.0,Carla Bordallo,3.0,Jingerly Lalic,3.0,7,8
+2018 Fall DIVA League,7,10/06/2018,Rally Cats,Love Haagen-Dazs Always,Celine San Nicolas,3.5,Kathleen Bristol,3.5,Nina Engelhardt,3.5,Sally Cacdac,3.5,4,8
+2018 Fall DIVA League,7,10/06/2018,Rally Cats,Love Haagen-Dazs Always,Mae Hsieh,3.5,Ashley Roland,3.5,Diane Lee,4.0,Chungsuk Kim,3.0,8,5
+2018 Fall DIVA League,7,10/06/2018,Rally Cats,Love Haagen-Dazs Always,Dina Jacob,4.0,Liza Provido,4.0,Terea Tapu,4.5,Lory Tydingco,3.5,6,8
+2018 Fall DIVA League,7,10/06/2018,PFC Hit N Run,Baseline Bombshells,Clarita Soriano,3.0,Tressa Diaz,3.0,Marie Paulin,3.0,Yoko Bailey,3.0,8,5
+2018 Fall DIVA League,7,10/06/2018,PFC Hit N Run,Baseline Bombshells,Ana Joy Mendez,3.5,Christine San Nicolas,3.5,Hisae Farrell,3.0,Ayumi Cajigan,3.5,8,6
+2018 Fall DIVA League,7,10/06/2018,PFC Hit N Run,Baseline Bombshells,Julie Namm,3.5,Naoko Kuge,3.5,Noriko Moody,3.5,Jannie Devera,3.5,7,8
+2018 Fall DIVA League,7,10/06/2018,PFC Hit N Run,Baseline Bombshells,Alita Day,4.0,Arlene Diaz,4.5,Yuko Stenson,4.0,Kayoko Sugahara,4.5,4,9
+2018 Fall DIVA League,8,10/13/2018,Baseline Bombshells,Rally Cats,Arlie Bonto,3.0,Yoko Bailey,3.0,Tara Perez-steffy Packbier,3.0,Teresa John,3.0,8,6
+2018 Fall DIVA League,8,10/13/2018,Baseline Bombshells,Rally Cats,Susan Edmunds,3.5,Ayumi Cajigan,3.5,Celine San Nicolas,3.5,Kathy Alegria,3.5,8,6
+2018 Fall DIVA League,8,10/13/2018,Baseline Bombshells,Rally Cats,Kazumi Takada,3.5,Yuko Stenson,4.0,Mae Hsieh,3.5,Leah Duenas,4.0,8,4
+2018 Fall DIVA League,8,10/13/2018,Baseline Bombshells,Rally Cats,Yuka Iwata,4.0,Migu Goodman,4.0,Dina Jacob,4.0,Liza Provido,4.0,8,5
+2018 Fall DIVA League,8,10/13/2018,Love Haagen-Dazs Always,PFC Hit N Run,Jingerly Lalic,3.0,Joy Ambrale,3.0,Edna Jasa,3.0,Imelda Tsuji,3.0,8,5
+2018 Fall DIVA League,8,10/13/2018,Love Haagen-Dazs Always,PFC Hit N Run,Nina Engelhardt,3.5,Sally Cacdac,3.5,Lillian Quirante,3.5,Clarita Soriano,3.0,8,1
+2018 Fall DIVA League,8,10/13/2018,Love Haagen-Dazs Always,PFC Hit N Run,Margaret Terry,4.0,Lory Tydingco,3.5,Julie Namm,3.5,Ana Joy Mendez,3.5,1,8
+2018 Fall DIVA League,8,10/13/2018,Love Haagen-Dazs Always,PFC Hit N Run,Rosalie Cao,4.5,Diane Lee,4.0,Benilda Ramirez,4.0,Christine San Nicolas,3.5,8,0
+2018 Fall DIVA League,9,10/20/2018,Rally Cats,PFC Hit N Run,Ana Maria Gayle,3.0,Diana Valadez Green,3.0,Jeanette Aguigui,3.0,Tressa Diaz,3.0,3,8
+2018 Fall DIVA League,9,10/20/2018,Rally Cats,PFC Hit N Run,Kathy Alegria,3.5,Kathleen Bristol,3.5,Christine San Nicolas,3.5,Clarita Soriano,3.0,4,8
+2018 Fall DIVA League,9,10/20/2018,Rally Cats,PFC Hit N Run,Mimi Clinard,4.0,Ashley Roland,3.5,Julie Namm,3.5,Alita Day,4.0,2,8
+2018 Fall DIVA League,9,10/20/2018,Rally Cats,PFC Hit N Run,Liza Provido,4.0,Leah Duenas,4.0,Arlene Diaz,4.5,Mona Taijeron,4.0,8,4
+2018 Fall DIVA League,9,10/20/2018,Baseline Bombshells,Love Haagen-Dazs Always,Hisae Farrell,3.0,Marie Paulin,3.0,Jingerly Lalic,3.0,Chungsuk Kim,3.0,7,8
+2018 Fall DIVA League,9,10/20/2018,Baseline Bombshells,Love Haagen-Dazs Always,Frances Mantanona,3.5,Jannie Devera,3.5,Millie Leon Guerrero,3.5,Sally Cacdac,3.5,8,3
+2018 Fall DIVA League,9,10/20/2018,Baseline Bombshells,Love Haagen-Dazs Always,Migu Goodman,4.0,Noriko Moody,3.5,Nina Engelhardt,3.5,Lory Tydingco,3.5,8,1
+2018 Fall DIVA League,9,10/20/2018,Baseline Bombshells,Love Haagen-Dazs Always,Yuka Iwata,4.0,Kayoko Sugahara,4.5,Terea Tapu,4.5,Diane Lee,4.0,8,0
+2018 Fall DIVA League,Semifinals (Playoffs),11/03/2018,Baseline Bombshells,Rally Cats,Marie Paulin,3.0,Yoko Bailey,3.0,Tara Perez-steffy Packbier,3.0,Teresa John,3.0,6,8
+2018 Fall DIVA League,Semifinals (Playoffs),11/03/2018,Baseline Bombshells,Rally Cats,Frances Mantanona,3.5,Susan Edmunds,3.5,Ashley Roland,3.5,Mae Hsieh,3.5,6,8
+2018 Fall DIVA League,Semifinals (Playoffs),11/03/2018,Baseline Bombshells,Rally Cats,Yuko Stenson,4.0,Kazumi Takada,3.5,Kathy Alegria,3.5,Dina Jacob,4.0,5,8
+2018 Fall DIVA League,Semifinals (Playoffs),11/03/2018,Baseline Bombshells,Rally Cats,Migu Goodman,4.0,Yuka Iwata,4.0,Celine San Nicolas,3.5,Liza Provido,4.0,8,1
+2018 Fall DIVA League,Semifinals (Playoffs),11/03/2018,Love Haagen-Dazs Always,PFC Hit N Run,Jingerly Lalic,3.0,Chungsuk Kim,3.0,Edna Jasa,3.0,Clarita Soriano,3.0,8,2
+2018 Fall DIVA League,Semifinals (Playoffs),11/03/2018,Love Haagen-Dazs Always,PFC Hit N Run,Nina Engelhardt,3.5,Sally Cacdac,3.5,Julie Namm,3.5,Naoko Kuge,3.5,3,8
+2018 Fall DIVA League,Semifinals (Playoffs),11/03/2018,Love Haagen-Dazs Always,PFC Hit N Run,Diane Lee,4.0,Millie Leon Guerrero,3.5,Ana Joy Mendez,3.5,Mona Taijeron,4.0,8,1
+2018 Fall DIVA League,Semifinals (Playoffs),11/03/2018,Love Haagen-Dazs Always,PFC Hit N Run,Rosalie Cao,4.5,Lory Tydingco,3.5,Alita Day,4.0,Benilda Ramirez,4.0,8,0
+2018 Fall DIVA League,Championship,11/10/2018,Rally Cats,Love Haagen-Dazs Always,Tara Perez-steffy Packbier,3.0,Teresa John,3.0,Jingerly Lalic,3.0,Joy Ambrale,3.0,7,8
+2018 Fall DIVA League,Championship,11/10/2018,Rally Cats,Love Haagen-Dazs Always,Kathy Alegria,3.5,Mae Hsieh,3.5,Nina Engelhardt,3.5,Millie Leon Guerrero,3.5,4,8
+2018 Fall DIVA League,Championship,11/10/2018,Rally Cats,Love Haagen-Dazs Always,Dina Jacob,4.0,Liza Provido,4.0,Diane Lee,4.0,Theecel Minor,4.0,8,3
+2018 Fall DIVA League,Championship,11/10/2018,Rally Cats,Love Haagen-Dazs Always,Leah Duenas,4.0,Ashley Roland,3.5,Terea Tapu,4.5,Lory Tydingco,3.5,1,8
+2018 Fall DIVA League,Consolation Matches,11/10/2018,Baseline Bombshells,PFC Hit N Run,Arlie Bonto,3.0,Hisae Farrell,3.0,Clarita Soriano,3.0,Jeanette Aguigui,3.0,8,4
+2018 Fall DIVA League,Consolation Matches,11/10/2018,Baseline Bombshells,PFC Hit N Run,Aki Shintani,3.5,Jannie Devera,3.5,Emelina Laborte,3.5,Margaret Leon Guerrero,3.5,8,0
+2018 Fall DIVA League,Consolation Matches,11/10/2018,Baseline Bombshells,PFC Hit N Run,Migu Goodman,4.0,Noriko Moody,3.5,Christine San Nicolas,3.5,Lillian Quirante,3.5,8,1
+2018 Fall DIVA League,Consolation Matches,11/10/2018,Baseline Bombshells,PFC Hit N Run,Kayoko Sugahara,4.5,Yuka Iwata,4.0,Ana Joy Mendez,3.5,Julie Namm,3.5,8,2
+2019 Ladies Spring League,1,02/02/2019,Love Haagen-Dazs Always,PFC Hit N Run,Millie Leon Guerrero,3.5,Sally Cacdac,3.5,Julie Namm,3.5,Ana Joy Mendez,3.5,1,10
+2019 Ladies Spring League,1,02/02/2019,Love Haagen-Dazs Always,PFC Hit N Run,Diane Lee,4.0,Tess Pennell,4.0,Naoko Kuge,3.5,Margaret Leon Guerrero,3.5,10,8
+2019 Ladies Spring League,1,02/02/2019,Love Haagen-Dazs Always,PFC Hit N Run,Rosalie Cao,4.5,Theecel Minor,4.0,Mona Taijeron,4.0,Arlene Diaz,4.5,10,7
+2019 Ladies Spring League,2,02/09/2019,PFC Hit N Run,Rally Cats,Edna Jasa,3.0,Clarita Soriano,3.0,Lisa Brooks,3.0,Teresa John,3.0,7,10
+2019 Ladies Spring League,2,02/09/2019,PFC Hit N Run,Rally Cats,Ana Joy Mendez,3.5,Christine San Nicolas,3.5,Kathy Alegria,3.5,Kathleen Bristol,3.5,10,2
+2019 Ladies Spring League,2,02/09/2019,PFC Hit N Run,Rally Cats,Naoko Kuge,3.5,Mona Taijeron,4.0,Dina Jacob,4.0,Mimi Clinard,4.0,2,10
+2019 Ladies Spring League,2,02/09/2019,PFC Hit N Run,Rally Cats,Arlene Diaz,4.5,Benilda Ramirez,4.0,Migu Goodman,4.0,Liza Provido,4.0,10,5
+2019 Ladies Spring League,2,02/09/2019,Love Haagen-Dazs Always,Baseline Bombshells,Jingerly Lalic,3.0,Joy Ambrale,3.0,Marie Paulin,3.0,Yoko Bailey,3.0,10,6
+2019 Ladies Spring League,2,02/09/2019,Love Haagen-Dazs Always,Baseline Bombshells,Millie Leon Guerrero,3.5,Sally Cacdac,3.5,Ayumi Cajigan,3.5,Frances Mantanona,3.5,10,9
+2019 Ladies Spring League,2,02/09/2019,Love Haagen-Dazs Always,Baseline Bombshells,Diane Lee,4.0,Tess Pennell,4.0,Jannie Devera,3.5,Yuka Iwata,4.0,10,6
+2019 Ladies Spring League,2,02/09/2019,Love Haagen-Dazs Always,Baseline Bombshells,Rosalie Cao,4.5,Theecel Minor,4.0,Kayoko Sugahara,4.5,Noriko Moody,3.5,10,9
+2019 Ladies Spring League,3,02/16/2019,Rally Cats,Love Haagen-Dazs Always,Ana Maria Gayle,3.0,Diana Valadez Green,3.0,Chungsuk Kim,3.0,Mahalia Faith Gudmalin,3.0,8,10
+2019 Ladies Spring League,3,02/16/2019,Rally Cats,Love Haagen-Dazs Always,Kathy Alegria,3.5,Tara Perez-steffy Packbier,3.0,Sally Cacdac,3.5,Nina Engelhardt,3.5,10,2
+2019 Ladies Spring League,3,02/16/2019,Rally Cats,Love Haagen-Dazs Always,Kathleen Bristol,3.5,Liza Provido,4.0,Tess Pennell,4.0,Millie Leon Guerrero,3.5,9,10
+2019 Ladies Spring League,3,02/16/2019,Rally Cats,Love Haagen-Dazs Always,Julie Perez - Bollinger,4.5,Migu Goodman,4.0,Terea Tapu,4.5,Theecel Minor,4.0,10,9
+2019 Ladies Spring League,3,02/16/2019,Baseline Bombshells,PFC Hit N Run,Anita Bendo,3.0,Hisae Farrell,3.0,Bobbie Garrison,3.0,Edna Jasa,3.0,3,10
+2019 Ladies Spring League,3,02/16/2019,Baseline Bombshells,PFC Hit N Run,Ayumi Cajigan,3.5,Susan Edmunds,3.5,Ana Joy Mendez,3.5,Clarita Soriano,3.0,0,10
+2019 Ladies Spring League,3,02/16/2019,Baseline Bombshells,PFC Hit N Run,Frances Mantanona,3.5,Jannie Devera,3.5,Julie Namm,3.5,Margaret Leon Guerrero,3.5,10,3
+2019 Ladies Spring League,3,02/16/2019,Baseline Bombshells,PFC Hit N Run,Yuka Iwata,4.0,Yuko Stenson,4.0,Arlene Diaz,4.5,Benilda Ramirez,4.0,10,5
+2019 Ladies Spring League,4,02/26/2019,Rally Cats,Baseline Bombshells,Ana Maria Gayle,3.0,Tara Perez-steffy Packbier,3.0,Marie Paulin,3.0,Mary Olah,3.0,10,4
+2019 Ladies Spring League,4,02/26/2019,Rally Cats,Baseline Bombshells,Kathy Alegria,3.5,Celine San Nicolas,3.5,Ayumi Cajigan,3.5,Jannie Devera,3.5,7,10
+2019 Ladies Spring League,4,02/26/2019,Rally Cats,Baseline Bombshells,Liza Provido,4.0,Migu Goodman,4.0,Kazumi Takada,3.5,Noriko Moody,3.5,10,2
+2019 Ladies Spring League,4,02/26/2019,Rally Cats,Baseline Bombshells,Julie Perez - Bollinger,4.5,Dina Jacob,4.0,Yuko Stenson,4.0,Kayoko Sugahara,4.5,2,10
+2019 Ladies Spring League,4,02/27/2019,Love Haagen-Dazs Always,PFC Hit N Run,Jingerly Lalic,3.0,Mahalia Faith Gudmalin,3.0,Bobbie Garrison,3.0,Clarita Soriano,3.0,2,10
+2019 Ladies Spring League,4,02/27/2019,Love Haagen-Dazs Always,PFC Hit N Run,Theecel Minor,4.0,Millie Leon Guerrero,3.5,Ana Joy Mendez,3.5,Benilda Ramirez,4.0,10,6
+2019 Ladies Spring League,4,02/27/2019,Love Haagen-Dazs Always,PFC Hit N Run,Rosalie Cao,4.5,Diane Lee,4.0,Christine San Nicolas,3.5,Mona Taijeron,4.0,10,0
+2019 Ladies Spring League,5,03/02/2019,Baseline Bombshells,Love Haagen-Dazs Always,Emilee Hansel,3.0,Arlie Bonto,3.0,Jingerly Lalic,3.0,Joy Ambrale,3.0,6,10
+2019 Ladies Spring League,5,03/02/2019,Baseline Bombshells,Love Haagen-Dazs Always,Frances Mantanona,3.5,Kazumi Takada,3.5,Nina Engelhardt,3.5,Annie Wu,3.5,0,10
+2019 Ladies Spring League,5,03/02/2019,Baseline Bombshells,Love Haagen-Dazs Always,Jannie Devera,3.5,Noriko Moody,3.5,Diane Lee,4.0,Millie Leon Guerrero,3.5,10,2
+2019 Ladies Spring League,5,03/02/2019,Baseline Bombshells,Love Haagen-Dazs Always,Kayoko Sugahara,4.5,Yuka Iwata,4.0,Rosalie Cao,4.5,Theecel Minor,4.0,10,8
+2019 Ladies Spring League,5,03/02/2019,PFC Hit N Run,Rally Cats,Bobbie Garrison,3.0,Clarita Soriano,3.0,Ana Maria Gayle,3.0,Tara Perez-steffy Packbier,3.0,10,1
+2019 Ladies Spring League,5,03/02/2019,PFC Hit N Run,Rally Cats,Emelina Laborte,3.5,Naoko Kuge,3.5,Celine San Nicolas,3.5,Kathleen Bristol,3.5,10,5
+2019 Ladies Spring League,5,03/02/2019,PFC Hit N Run,Rally Cats,Benilda Ramirez,4.0,Christine San Nicolas,3.5,Liza Provido,4.0,Mimi Clinard,4.0,3,10
+2019 Ladies Spring League,5,03/02/2019,PFC Hit N Run,Rally Cats,Arlene Diaz,4.5,Julie Namm,3.5,Julie Perez - Bollinger,4.5,Leah Duenas,4.0,10,6
+2019 Ladies Spring League,6,03/09/2019,Rally Cats,Love Haagen-Dazs Always,Tara Perez-steffy Packbier,3.0,Lisa Brooks,3.0,Chungsuk Kim,3.0,Selina Ashland,2.5,10,2
+2019 Ladies Spring League,6,03/09/2019,Rally Cats,Love Haagen-Dazs Always,Kathy Alegria,3.5,Mae Hsieh,3.5,Lory Tydingco,3.5,Millie Leon Guerrero,3.5,10,6
+2019 Ladies Spring League,6,03/09/2019,Rally Cats,Love Haagen-Dazs Always,Ronni Connelly,4.0,Leah Duenas,4.0,Nina Engelhardt,3.5,Annie Wu,3.5,2,10
+2019 Ladies Spring League,6,03/09/2019,Rally Cats,Love Haagen-Dazs Always,Dina Jacob,4.0,Migu Goodman,4.0,Rosalie Cao,4.5,Theecel Minor,4.0,7,10
+2019 Ladies Spring League,6,03/09/2019,PFC Hit N Run,Baseline Bombshells,Imelda Tsuji,3.0,Tressa Diaz,3.0,Hisae Farrell,3.0,Marie Paulin,3.0,7,10
+2019 Ladies Spring League,6,03/09/2019,PFC Hit N Run,Baseline Bombshells,Margaret Leon Guerrero,3.5,Naoko Kuge,3.5,Frances Mantanona,3.5,Arlie Bonto,3.0,10,4
+2019 Ladies Spring League,6,03/09/2019,PFC Hit N Run,Baseline Bombshells,Mona Taijeron,4.0,Julie Namm,3.5,Noriko Moody,3.5,Yuka Iwata,4.0,0,10
+2019 Ladies Spring League,6,03/09/2019,PFC Hit N Run,Baseline Bombshells,Clarita Soriano,3.0,Benilda Ramirez,4.0,Yuko Stenson,4.0,Kayoko Sugahara,4.5,7,10
+2019 Ladies Spring League,7,03/16/2019,Love Haagen-Dazs Always,PFC Hit N Run,Joy Ambrale,3.0,Jingerly Lalic,3.0,Bobbie Garrison,3.0,Tressa Diaz,3.0,10,5
+2019 Ladies Spring League,7,03/16/2019,Love Haagen-Dazs Always,PFC Hit N Run,Mahalia Faith Gudmalin,3.0,Chungsuk Kim,3.0,Emelina Laborte,3.5,Ana Joy Mendez,3.5,8,10
+2019 Ladies Spring League,7,03/16/2019,Love Haagen-Dazs Always,PFC Hit N Run,Theecel Minor,4.0,Lory Tydingco,3.5,Lillian Quirante,3.5,Naoko Kuge,3.5,10,7
+2019 Ladies Spring League,7,03/16/2019,Love Haagen-Dazs Always,PFC Hit N Run,Rosalie Cao,4.5,Diane Lee,4.0,Arlene Diaz,4.5,Benilda Ramirez,4.0,10,9
+2019 Ladies Spring League,7,03/16/2019,Rally Cats,Baseline Bombshells,Ana Maria Gayle,3.0,Diana Valadez Green,3.0,Emilee Hansel,3.0,Yoko Bailey,3.0,5,10
+2019 Ladies Spring League,7,03/16/2019,Rally Cats,Baseline Bombshells,Mae Hsieh,3.5,Teresa John,3.0,Kazumi Takada,3.5,Susan Edmunds,3.5,7,10
+2019 Ladies Spring League,7,03/16/2019,Rally Cats,Baseline Bombshells,Dina Jacob,4.0,Leah Duenas,4.0,Jannie Devera,3.5,Ayumi Cajigan,3.5,10,1
+2019 Ladies Spring League,7,03/16/2019,Rally Cats,Baseline Bombshells,Migu Goodman,4.0,Julie Perez - Bollinger,4.5,Kayoko Sugahara,4.5,Yuka Iwata,4.0,6,10
+2019 Ladies Spring League,8,03/23/2019,PFC Hit N Run,Rally Cats,Bobbie Garrison,3.0,Imelda Tsuji,3.0,Ana Maria Gayle,3.0,Tara Perez-steffy Packbier,3.0,10,9
+2019 Ladies Spring League,8,03/23/2019,PFC Hit N Run,Rally Cats,Lillian Quirante,3.5,Clarita Soriano,3.0,Celine San Nicolas,3.5,Kathy Alegria,3.5,8,10
+2019 Ladies Spring League,8,03/23/2019,PFC Hit N Run,Rally Cats,Benilda Ramirez,4.0,Naoko Kuge,3.5,Leah Duenas,4.0,Ronni Connelly,4.0,10,7
+2019 Ladies Spring League,8,03/23/2019,PFC Hit N Run,Rally Cats,Arlene Diaz,4.5,Mona Taijeron,4.0,Julie Perez - Bollinger,4.5,Migu Goodman,4.0,2,10
+2019 Ladies Spring League,8,03/23/2019,Baseline Bombshells,Love Haagen-Dazs Always,Emilee Hansel,3.0,Marie Paulin,3.0,Selina Ashland,2.5,Mahalia Faith Gudmalin,3.0,10,3
+2019 Ladies Spring League,8,03/23/2019,Baseline Bombshells,Love Haagen-Dazs Always,Frances Mantanona,3.5,Jannie Devera,3.5,Chungsuk Kim,3.0,Jingerly Lalic,3.0,10,6
+2019 Ladies Spring League,8,03/23/2019,Baseline Bombshells,Love Haagen-Dazs Always,Susan Edmunds,3.5,Noriko Moody,3.5,Annie Wu,3.5,Lory Tydingco,3.5,10,1
+2019 Ladies Spring League,8,03/23/2019,Baseline Bombshells,Love Haagen-Dazs Always,Kayoko Sugahara,4.5,Yuko Stenson,4.0,Rosalie Cao,4.5,Theecel Minor,4.0,10,9
+2019 Ladies Spring League,9,03/30/2019,PFC Hit N Run,Baseline Bombshells,Bobbie Garrison,3.0,Clarita Soriano,3.0,Anita Bendo,3.0,Yoko Bailey,3.0,10,2
+2019 Ladies Spring League,9,03/30/2019,PFC Hit N Run,Baseline Bombshells,Emelina Laborte,3.5,Margaret Leon Guerrero,3.5,Arlie Bonto,3.0,Hisae Farrell,3.0,4,10
+2019 Ladies Spring League,9,03/30/2019,PFC Hit N Run,Baseline Bombshells,Julie Namm,3.5,Benilda Ramirez,4.0,Ayumi Cajigan,3.5,Noriko Moody,3.5,10,9
+2019 Ladies Spring League,9,03/30/2019,PFC Hit N Run,Baseline Bombshells,Naoko Kuge,3.5,Arlene Diaz,4.5,Kayoko Sugahara,4.5,Kazumi Takada,3.5,2,10
+2019 Ladies Spring League,9,03/30/2019,Rally Cats,Love Haagen-Dazs Always,Lisa Brooks,3.0,Tara Perez-steffy Packbier,3.0,Jingerly Lalic,3.0,Joy Ambrale,3.0,10,0
+2019 Ladies Spring League,9,03/30/2019,Rally Cats,Love Haagen-Dazs Always,Celine San Nicolas,3.5,Mae Hsieh,3.5,Annie Wu,3.5,Nina Engelhardt,3.5,8,10
+2019 Ladies Spring League,9,03/30/2019,Rally Cats,Love Haagen-Dazs Always,Liza Provido,4.0,Migu Goodman,4.0,Lory Tydingco,3.5,Theecel Minor,4.0,9,10
+2019 Ladies Spring League,9,03/30/2019,Rally Cats,Love Haagen-Dazs Always,Dina Jacob,4.0,Julie Perez - Bollinger,4.5,Diane Lee,4.0,Rosalie Cao,4.5,6,10
+2019 Ladies Spring League,Playoffs,04/06/2019,Baseline Bombshells,Love Haagen-Dazs Always,Arlie Bonto,3.0,Hisae Farrell,3.0,Jingerly Lalic,3.0,Joy Ambrale,3.0,10,5
+2019 Ladies Spring League,Playoffs,04/06/2019,Baseline Bombshells,Love Haagen-Dazs Always,Jannie Devera,3.5,Kazumi Takada,3.5,Annie Wu,3.5,Nina Engelhardt,3.5,3,10
+2019 Ladies Spring League,Playoffs,04/06/2019,Baseline Bombshells,Love Haagen-Dazs Always,Noriko Moody,3.5,Yuko Stenson,4.0,Tess Pennell,4.0,Theecel Minor,4.0,7,10
+2019 Ladies Spring League,Playoffs,04/06/2019,Baseline Bombshells,Love Haagen-Dazs Always,Kayoko Sugahara,4.5,Yuka Iwata,4.0,Diane Lee,4.0,Rosalie Cao,4.5,10,4
+2019 Ladies Spring League,Playoffs,04/06/2019,PFC Hit N Run,Rally Cats,Bobbie Garrison,3.0,Clarita Soriano,3.0,Tara Perez-steffy Packbier,3.0,Teresa John,3.0,10,8
+2019 Ladies Spring League,Playoffs,04/06/2019,PFC Hit N Run,Rally Cats,Ana Joy Mendez,3.5,Naoko Kuge,3.5,Kathy Alegria,3.5,Mae Hsieh,3.5,10,4
+2019 Ladies Spring League,Playoffs,04/06/2019,PFC Hit N Run,Rally Cats,Benilda Ramirez,4.0,Julie Namm,3.5,Dina Jacob,4.0,Migu Goodman,4.0,2,10
+2019 Ladies Spring League,Playoffs,04/06/2019,PFC Hit N Run,Rally Cats,Arlene Diaz,4.5,Margaret Leon Guerrero,3.5,Julie Perez - Bollinger,4.5,Liza Provido,4.0,3,10
+2019 Ladies Spring League,Playoffs,04/13/2019,Baseline Bombshells,Rally Cats,Arlie Bonto,3.0,Hisae Farrell,3.0,Tara Perez-steffy Packbier,3.0,Teresa John,3.0,4,10
+2019 Ladies Spring League,Playoffs,04/13/2019,Baseline Bombshells,Rally Cats,Jannie Devera,3.5,Marie Paulin,3.0,Kathy Alegria,3.5,Mae Hsieh,3.5,10,6
+2019 Ladies Spring League,Playoffs,04/13/2019,Baseline Bombshells,Rally Cats,Yuka Iwata,4.0,Yuko Stenson,4.0,Dina Jacob,4.0,Mimi Clinard,4.0,10,4
+2019 Ladies Spring League,Playoffs,04/13/2019,Baseline Bombshells,Rally Cats,Kayoko Sugahara,4.5,Noriko Moody,3.5,Julie Perez - Bollinger,4.5,Migu Goodman,4.0,10,3
